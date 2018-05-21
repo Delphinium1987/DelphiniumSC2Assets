@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CutsceneState cutsceneVersion="1.300000">
+    <CCutsceneNodeActor guid="11554125181200567157" name="Dustin_过场_防空炮火云层水平" position="1.490677,-12.968079,-14.856153" modelLink="NanaKey_Background_CloudScene_Horizontal" shadowBox="0" teamColorDiffuse="0.705800,0.078300,0.117600,1.000000" teamColorEmissive="0.545100,0.062700,0.086100,1.000000">
+        <CCutsceneElementObject guid="8556941833473297269" duration="19979" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="10721719758925305986" name="Animation Layer">
+            <CCutsceneElementAnim guid="4666419786916796546" duration="19979" lockedToEnd="1" anim="Stand Work" priority="6" originalDuration="50000" looping="1" fullMatchLegacy="1"/>
+        </CCutsceneNodeAnimLayer>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeActor guid="10509727799622896416" name="Dustin_装备_鸿雁级运兵船拖尾" position="-129.968155,-222.152649,-317.632050" modelLink="NanaKey_TO_Anser_Trail" shadowBox="0" teamColorDiffuse="0.705800,0.078300,0.117600,1.000000" teamColorEmissive="0.545100,0.062700,0.086100,1.000000">
+        <CCutsceneElementObject guid="6877563417269504800" duration="19979" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="13691717525155302844" name="Animation Layer">
+            <CCutsceneElementAnim guid="7616068754012589500" duration="19979" lockedToEnd="1" anim="Stand" priority="3" originalDuration="1000" looping="1" fullMatchLegacy="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodeAttachment guid="13353926799820541372" name="附着物">
+            <CCutsceneElementAttachment guid="8594500271552286140" duration="19979" lockedToEnd="1" attachGuid="10898711314157028466" attachName="Ref_Origin" offsetX="0.000000" offsetY="0.000000" offsetZ="0.000000" rotationX="0.000000" rotationY="0.000000" rotationZ="0.000000"/>
+        </CCutsceneNodeAttachment>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeCamera guid="10557514086507715132" name="主镜头" position="15.466962,-23.080719,0.000000" fov="27.799999" nearClip="0.100000" farClip="600.000000" shadowClip="75.000000" depthOfField="0.000000" focalDepth="8.000000" falloffStart="0.000300" falloffEnd="8.000000" falloffStartNear="0.000000" falloffEndNear="0.000000" fstop="32.000000" doftype="0.000000" roll="0.000000" distance="6.303364" pitch="52.896118" yaw="-37.297020" heightOffset="0.000000">
+        <CCutsceneElementObject guid="8845739151106611772" duration="19979" lockedToEnd="1"/>
+        <CCutsceneNodePropertyValue guid="13187721385521715219" name="属性 - 位置点X轴" propertyName="positionX">
+            <CCutsceneElementPropertyCurve guid="7094151798911932435" value="16.624557" time="0.000000" curveInValue="-33.333336,16.588936" curveOutValue="687.333374,17.359072" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5880393694965768085" start="2062" value="21.031647" time="2062.000000" curveInValue="1374.665039,21.031647" curveOutValue="2718.335938,21.031647" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5086793342937867749" start="4031" value="15.605202" time="4031.000000" curveInValue="3374.666748,16.246967" curveOutValue="4944.666504,14.711814" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5530928658400042140" start="6772" value="17.798904" time="6772.000000" curveInValue="5858.333008,17.474049" curveOutValue="7358.333496,18.007376" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="6701718693920618879" start="8531" value="17.641953" time="8531.000000" curveInValue="7944.666504,17.846004" curveOutValue="9097.000000,17.444977" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5678240746014389025" start="10229" value="16.611607" time="10229.000000" curveInValue="9663.000000,17.709576" curveOutValue="10814.666992,15.475486" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="6759215980621952334" start="11986" value="10.861031" time="11986.000000" curveInValue="11400.333984,11.113060" curveOutValue="12782.333008,10.518346" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8052912938115295992" start="14375" value="16.624001" time="14375.000000" curveInValue="13578.674805,15.663503" curveOutValue="14408.333008,16.664206" curveOutType="5" curveInType="5"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="9918827978468890643" name="属性 - 位置点Y轴" propertyName="positionY">
+            <CCutsceneElementPropertyCurve guid="6042277169560820254" value="-18.831951" time="0.000000" curveInValue="-33.333336,-18.837248" curveOutValue="687.333374,-18.722715" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8118768561870184341" start="2062" value="-18.176533" time="2062.000000" curveInValue="1374.666504,-17.444706" curveOutValue="2718.333496,-18.875353" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="6328747964812633573" start="4031" value="-22.995308" time="4031.000000" curveInValue="3374.666748,-22.530445" curveOutValue="4944.666504,-23.642433" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="4686208105669090460" start="6772" value="-20.169952" time="6772.000000" curveInValue="5858.333008,-20.649921" curveOutValue="7358.333496,-19.861938" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="7461628219674573183" start="8531" value="-20.134998" time="8531.000000" curveInValue="7944.666504,-20.357811" curveOutValue="9097.000000,-19.919912" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8912222949488341793" start="10229" value="-18.878220" time="10229.000000" curveInValue="9663.000000,-18.162111" curveOutValue="10814.666992,-19.619211" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5865147761193481550" start="11986" value="-24.624622" time="11986.000000" curveInValue="11400.333984,-24.377169" curveOutValue="12782.333008,-24.961086" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8914886919935126264" start="14375" value="-18.830000" time="14375.000000" curveInValue="13578.674805,-19.795784" curveOutValue="14408.333008,-18.789574" curveOutType="5" curveInType="5"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="9974229229104887118" name="属性 - 纵摇" propertyName="pitch">
+            <CCutsceneElementPropertyCurve guid="7544009550456517966" value="49.807037" time="0.000000" curveInValue="-33.333336,49.839428" curveOutValue="688.333374,49.138195" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8758460026752589777" start="2065" value="45.793980" time="2065.000000" curveInValue="1376.665527,45.793980" curveOutValue="2720.337646,45.793980" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5626461013086971365" start="4031" value="52.961658" time="4031.000000" curveInValue="3375.666748,52.774311" curveOutValue="4944.666504,53.222858" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5911751412692704412" start="6772" value="44.535679" time="6772.000000" curveInValue="5858.333008,45.249287" curveOutValue="7924.333496,43.635662" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="7221774433677357857" start="10229" value="49.762573" time="10229.000000" curveInValue="9076.666016,46.020699" curveOutValue="10814.666992,51.664360" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5414629193904125262" start="11986" value="58.516747" time="11986.000000" curveInValue="11400.333984,58.126179" curveOutValue="12782.333008,59.047802" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="6018106971146840824" start="14375" value="49.799999" time="14375.000000" curveInValue="13578.674805,51.252842" curveOutValue="14408.333008,49.739185" curveOutType="5" curveInType="5"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="10317508588782461654" name="属性 - 横摇" propertyName="yaw">
+            <CCutsceneElementPropertyCurve guid="5141139292687147734" value="-36.242634" time="0.000000" curveInValue="-33.333336,-36.218620" curveOutValue="688.333374,-36.738541" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="6283203986758295505" start="2065" value="-39.218082" time="2065.000000" curveInValue="1376.665894,-39.218082" curveOutValue="2720.333740,-39.218082" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="9160758861884433893" start="4031" value="-37.236717" time="4031.000000" curveInValue="3375.666748,-37.186069" curveOutValue="4944.666504,-37.307331" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8448020783136398492" start="6772" value="-40.422810" time="6772.000000" curveInValue="5858.333008,-40.435390" curveOutValue="7924.333496,-40.406944" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="4840381373474026273" start="10229" value="-36.309258" time="10229.000000" curveInValue="9076.666016,-37.634624" curveOutValue="10814.666992,-35.635647" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="4827350004243604182" start="11986" value="-34.358288" time="11986.000000" curveInValue="11400.333984,-34.452797" curveOutValue="12782.333008,-34.229782" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="6771616587607862008" start="14375" value="-36.240002" time="14375.000000" curveInValue="13578.674805,-35.926414" curveOutValue="14408.333008,-36.253128" curveOutType="5" curveInType="5"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="11718803703125538144" name="属性 - 距离" propertyName="distance">
+            <CCutsceneElementPropertyCurve guid="7014729725525652832" value="14.233515" time="0.000000" curveInValue="-33.333332,14.283215" curveOutValue="443.333344,13.572502" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="5171715314396422097" start="1330" value="10.267440" time="1330.000000" curveInValue="886.666626,11.589465" curveOutValue="2441.666748,8.746828" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="9053886700987745348" start="4665" value="5.705606" time="4665.000000" curveInValue="3553.333252,7.226217" curveOutValue="5367.333496,5.721637" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="5276837815552079200" start="6772" value="5.753700" time="6772.000000" curveInValue="6069.666504,4.900928" curveOutValue="7924.333496,7.152861" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="8863016385351398177" start="10229" value="14.069755" time="10229.000000" curveInValue="9076.666992,12.661476" curveOutValue="11611.000000,15.758711" curveOutType="5" curveInType="5"/>
+            <CCutsceneElementPropertyCurve guid="4931416417749854968" start="14375" value="14.230000" time="14375.000000" curveInValue="12993.013672,14.203310" curveOutValue="14408.333008,14.230643" curveOutType="5" curveInType="5"/>
+        </CCutsceneNodePropertyValue>
+    </CCutsceneNodeCamera>
+    <CCutsceneNodeSound guid="13085736429307669599" enabled="0" name="Doodad_BattleStation_DockedHangerGorgon_Explosion_Large" position="19.217468,-17.053574,0.000000" soundLink="Doodad_BattleStation_DockedHangerGorgon_Explosion_Large" soundIndex="2" mode="2" assetDuration="3602" speakerMixLFE="0.000000">
+        <CCutsceneElementObject guid="8623350925857500255" duration="19979" lockedToEnd="1"/>
+    </CCutsceneNodeSound>
+    <CCutsceneNodeDirector guid="13614639404440015270" name="引导器">
+        <CCutsceneNodeActiveCamera guid="13662474385916789030" name="活动镜头">
+            <CCutsceneElementActiveCamera guid="9020762877645645701" cameraIndex="0" objectGuid="10557514086507715132"/>
+        </CCutsceneNodeActiveCamera>
+        <CCutsceneNodeFade guid="10231607198393960216" name="淡化">
+            <CCutsceneElementFade guid="6953906358113940526" duration="1000" colorR="0.000000" colorG="0.000000" colorB="0.000000" amount="1.000000" unfadedAmount="0.000000" fadeIn="1"/>
+            <CCutsceneElementFade guid="7778677374182891476" start="10797" duration="1000" colorR="0.000000" colorG="0.000000" colorB="0.000000" amount="1.000000" unfadedAmount="0.000000" fadeIn="0"/>
+        </CCutsceneNodeFade>
+        <CCutsceneNodeEndScene guid="12086032317168793349" name="结束场景标记">
+            <CCutsceneElementEndScene guid="5335074688340899589" start="11679"/>
+        </CCutsceneNodeEndScene>
+        <CCutsceneNodeMasterSound guid="11803061070969089497" name="主音效节点" soundLink="NationWarsV_MainTheme_End_Piano_Only" soundIndex="168773344" mode="4294967295" assetDuration="0">
+            <CCutsceneElementObject guid="7732274867203648985" duration="19979"/>
+        </CCutsceneNodeMasterSound>
+    </CCutsceneNodeDirector>
+    <CCutsceneNodeActor guid="10898711314157028466" name="Dustin_单位_鸿雁级运兵船" position="2.876226,-41.919033,-29.131985" rotation="4.312594,-2.291774,-267.549774" modelLink="NanaKey_TO_Anser" shadowBox="0" teamColorDiffuse="0.705800,0.078300,0.117600,1.000000" teamColorEmissive="0.545100,0.062700,0.086100,1.000000">
+        <CCutsceneElementObject guid="9054944650701063282" duration="19979" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="13199389727515997725" name="动画层">
+            <CCutsceneElementAnim guid="5371474379270518301" duration="4418" anim="Cover" priority="4" originalDuration="1000" looping="1"/>
+            <CCutsceneElementAnim guid="5872503806898371761" start="4418" duration="15561" lockedToEnd="1" anim="Cover End" priority="4" originalDuration="833"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodeAnimLayer guid="12545377057368181554" name="动画层">
+            <CCutsceneElementAnim guid="6523415948656118578" duration="19979" lockedToEnd="1" anim="Fly" priority="5" originalDuration="2000" originalMoveSpeed="225.000000" movespeed="225.000000" looping="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodePropertyValue guid="11620642047219247657" name="属性 - 旋转X轴" propertyName="rotationX">
+            <CCutsceneElementPropertyCurve guid="6346133882281699881" value="4.079493" time="0.000000" curveInValue="-1.000000,4.079493" curveOutValue="630.333374,4.079493" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="7417164082974337577" start="1891" value="4.910348" time="1891.000000" curveInValue="1260.666626,4.629113" curveOutValue="2141.333252,5.022039" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6139528708124196012" start="2642" value="5.258272" time="2642.000000" curveInValue="2391.666748,5.258272" curveOutValue="2908.000244,5.258272" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4679028800026167580" start="3440" value="4.441041" time="3440.000000" curveInValue="3174.000000,4.665181" curveOutValue="3568.333252,4.332903" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8409227609630520611" start="3825" value="4.261441" time="3825.000000" curveInValue="3696.666748,4.261441" curveOutValue="4119.000000,4.261441" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="7151987173353962998" start="4707" value="4.797684" time="4707.000000" curveInValue="4413.000488,4.261441" curveOutValue="5773.002441,6.742028" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8145424975201045007" start="7905" value="13.768544" time="7905.000000" curveInValue="6838.996094,13.768544" curveOutValue="8386.339844,13.768544" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="9059634572282238296" start="9349" value="6.262299" time="9349.000000" curveInValue="8867.660156,6.403525" curveOutValue="10375.665039,5.961074" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8525471800776169964" start="12429" value="5.961074" time="12429.000000" curveInValue="11402.333008,6.262299" curveOutValue="13077.666992,5.770754" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5952202634075958363" start="14375" value="4.070000" time="14375.000000" curveInValue="13726.333008,4.070000" curveOutValue="14376.000000,4.070000" curveOutType="7" curveInType="7"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="12541404089687779881" name="属性 - 旋转Y轴" propertyName="rotationY">
+            <CCutsceneElementPropertyCurve guid="5074163477731912233" value="6.737890" time="0.000000" curveInValue="-1.000000,6.737890" curveOutValue="630.333374,6.737890" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6822629786166798889" start="1891" value="-9.240673" time="1891.000000" curveInValue="1260.644165,-9.240673" curveOutValue="2141.334717,-9.240673" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5254343456021429420" start="2642" value="-5.093421" time="2642.000000" curveInValue="2391.685303,-8.451213" curveOutValue="2908.033936,-1.524767" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6884739856528951580" start="3440" value="11.538054" time="3440.000000" curveInValue="3173.942139,11.538054" curveOutValue="3568.359863,11.538054" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5860944627249394979" start="3825" value="3.242546" time="3825.000000" curveInValue="3696.648926,4.993089" curveOutValue="4118.987793,-0.767066" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="9095949058684075510" start="4707" value="-5.742176" time="4707.000000" curveInValue="4412.984863,-5.742176" curveOutValue="5773.004883,-5.742176" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6828589625745082895" start="7905" value="3.686579" time="7905.000000" curveInValue="6838.995117,3.686579" curveOutValue="8386.332031,3.686579" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5234540349186839896" start="9349" value="3.343890" time="9349.000000" curveInValue="8867.666992,3.343890" curveOutValue="10375.668945,3.343890" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4875007872739547628" start="12429" value="9.336457" time="12429.000000" curveInValue="11402.331055,9.336457" curveOutValue="13077.666992,9.336457" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4892831492119051597" start="14375" value="6.730000" time="14375.000000" curveInValue="13726.333008,6.730000" curveOutValue="14376.000000,6.730000" curveOutType="7" curveInType="7"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodeAnimLayer guid="10405118988720437666" name="动画层">
+            <CCutsceneElementAnim guid="5463540355539769529" start="2158" duration="1667" anim="Fly End" priority="6" originalDuration="1667" originalMoveSpeed="225.000000" movespeed="225.000000" blendTime="333" blendOutTime="333" timeScale="0.500000"/>
+            <CCutsceneElementAnim guid="7974002298528099335" start="3825" duration="3908" anim="Fly Work Start" priority="5" originalDuration="1000" blendTime="333" blendOutTime="333" timeScale="0.500000"/>
+            <CCutsceneElementAnim guid="5194567662263634392" start="7733" duration="1000" anim="Fly Work End" priority="5" originalDuration="1000"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodePropertyValue guid="11222204337183272221" name="属性 - 位置点X轴" propertyName="positionX">
+            <CCutsceneElementPropertyCurve guid="8764206214518680861" value="0.701492" time="0.000000" curveInValue="-1.000000,0.701492" curveOutValue="570.333374,0.701492" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="7351814188842756094" start="1711" value="0.922943" time="1711.000000" curveInValue="1140.666748,0.720464" curveOutValue="2021.333496,1.033117" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5558339497475587244" start="2642" value="1.639450" time="2642.000000" curveInValue="2331.666748,1.400587" curveOutValue="2713.666748,1.694612" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5501148650730015004" start="2857" value="1.805016" time="2857.000000" curveInValue="2785.333252,1.749827" curveOutValue="2889.000000,1.829651" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="5433300183649014048" start="2953" value="1.878922" time="2953.000000" curveInValue="2921.000000,1.852393" curveOutValue="3345.666748,2.204454" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4736034482709708278" start="4131" value="2.861198" time="4131.000000" curveInValue="3738.333252,2.533773" curveOutValue="4170.666504,2.866539" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="4773549829551354699" start="4250" value="2.877220" time="4250.000000" curveInValue="4210.333496,2.877220" curveOutValue="5131.666992,2.877220" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6103603530150987231" start="6895" value="0.963745" time="6895.000000" curveInValue="6013.333008,1.370723" curveOutValue="7473.666504,0.696632" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5870577097456232253" start="8631" value="0.696632" time="8631.000000" curveInValue="8052.333496,0.834804" curveOutValue="9456.333008,0.499562" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="9196616525378235677" start="11107" value="-0.041981" time="11107.000000" curveInValue="10281.666992,-0.041981" curveOutValue="11108.000000,-0.041981" curveOutType="7" curveInType="7"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="10668205961477930290" name="属性 - 位置点Y轴" propertyName="positionY">
+            <CCutsceneElementPropertyCurve guid="8927193212302966066" value="-43.125351" time="0.000000" curveInValue="-1.000000,-43.125351" curveOutValue="570.333374,-43.125351" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6493446510672750590" start="1711" value="-42.739216" time="1711.000000" curveInValue="1140.666626,-42.887527" curveOutValue="2021.333374,-42.658516" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="9119885666770893996" start="2642" value="-42.438316" time="2642.000000" curveInValue="2331.666504,-42.538624" curveOutValue="2713.666748,-42.415154" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5722116673635469596" start="2857" value="-42.368813" time="2857.000000" curveInValue="2785.333252,-42.391979" curveOutValue="2889.000000,-42.358475" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="7513473331819368736" start="2953" value="-42.337799" time="2953.000000" curveInValue="2921.000000,-42.348938" curveOutValue="3345.666748,-42.201115" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6114521957395971574" start="4131" value="-41.925346" time="4131.000000" curveInValue="3738.333252,-42.062832" curveOutValue="4170.666504,-41.923103" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="5785873810197115723" start="4250" value="-41.918617" time="4250.000000" curveInValue="4210.333496,-41.918617" curveOutValue="5131.666992,-41.918617" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8287766447042062876" start="6895" value="-43.549377" time="6895.000000" curveInValue="6013.333008,-43.549377" curveOutValue="7473.666992,-43.549377" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8397634106647390013" start="8631" value="-43.039978" time="8631.000000" curveInValue="8052.341797,-43.549377" curveOutValue="9456.367188,-42.313396" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5945365746168111337" start="11107" value="-20.406937" time="11107.000000" curveInValue="10281.666992,-20.406937" curveOutValue="11108.000000,-20.406937" curveOutType="7" curveInType="7"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="10164338357168178801" name="属性 - 位置点Z轴" propertyName="positionZ">
+            <CCutsceneElementPropertyCurve guid="4956802471975650929" value="-31.731714" time="0.000000" curveInValue="-1.000000,-31.731714" curveOutValue="570.333374,-31.731714" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5564430348515158014" start="1711" value="-29.101753" time="1711.000000" curveInValue="1140.666016,-29.101753" curveOutValue="2021.333252,-29.101753" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4723064617210625196" start="2642" value="-29.112926" time="2642.000000" curveInValue="2331.666748,-29.109194" curveOutValue="2713.666748,-29.113789" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4907354162039212316" start="2857" value="-29.115540" time="2857.000000" curveInValue="2785.333252,-29.114668" curveOutValue="2889.000000,-29.115923" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="6233183775782848369" start="2953" value="-29.116690" time="2953.000000" curveInValue="2921.000000,-29.116306" curveOutValue="3345.666748,-29.121403" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="7692478811503967734" start="4131" value="-29.130821" time="4131.000000" curveInValue="3738.333252,-29.126110" curveOutValue="4170.666504,-29.131298" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="7620894253791114059" start="4250" value="-29.132254" time="4250.000000" curveInValue="4210.333496,-29.131769" curveOutValue="5131.666504,-29.143036" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="6618467282204486172" start="6895" value="-29.164606" time="6895.000000" curveInValue="6013.333496,-29.132254" curveOutValue="8299.000000,-29.216125" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8359794133923202673" start="11107" value="-31.338005" time="11107.000000" curveInValue="9703.000000,-31.338005" curveOutValue="11108.000000,-31.338005" curveOutType="7" curveInType="7"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodeAnimLayer guid="11622031685869891763" name="动画层">
+            <CCutsceneElementAnim guid="8537185006204481715" duration="19979" lockedToEnd="1" anim="GLstand" priority="12" originalDuration="3333" looping="1" timeScale="0.500000"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodeAnimLayer guid="13210321945061430801" name="动画层">
+            <CCutsceneElementAnim guid="5843038338913605137" start="8298" duration="11681" lockedToEnd="1" anim="Fly Start" priority="6" originalDuration="1000" originalMoveSpeed="225.000000" movespeed="225.000000"/>
+        </CCutsceneNodeAnimLayer>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeActor guid="11792098442413125512" name="Dustin_单位_暴雪空天战机" position="7.052541,-50.915905,-34.799660" scale="1.961082,1.961082,1.961082" rotation="0.000000,0.000000,89.999878" modelLink="Netease_NanaKey_TO_SpaceShutter" shadowBox="0" teamColorDiffuse="0.000000,0.258700,1.000000,1.000000" teamColorEmissive="0.000000,0.258700,1.000000,1.000000">
+        <CCutsceneElementObject guid="5972982273949609864" duration="19979" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="13151748174844111229" name="动画层">
+            <CCutsceneElementAnim guid="8650134059314948477" duration="19979" lockedToEnd="1" anim="Walk Fast" priority="5" originalDuration="666" originalMoveSpeed="425.000000" movespeed="425.000000" looping="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodePropertyValue guid="9993018807898099021" name="属性 - 位置点Y轴" propertyName="positionY">
+            <CCutsceneElementPropertyCurve guid="8108162754984252141" value="-58.084496" time="0.000000" curveInValue="-1.000000,-58.084496" curveOutValue="3845.333496,-51.564716" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="4614614618644846231" start="11536" value="-38.525162" time="11536.000000" curveInValue="7690.666504,-45.044941" curveOutValue="11537.000000,-38.525162" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="13803883671220097773" name="属性 - 位置点X轴" propertyName="positionX">
+            <CCutsceneElementPropertyCurve guid="6319324076089512685" value="7.052536" time="0.000000" curveInValue="-1.000000,7.052536" curveOutValue="3845.333496,7.052541" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="8409922947189741207" start="11536" value="7.052551" time="11536.000000" curveInValue="7690.666504,7.052546" curveOutValue="11537.000000,7.052551" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="13593181769405983481" name="属性 - 位置点Z轴" propertyName="positionZ">
+            <CCutsceneElementPropertyCurve guid="4869193113429764857" value="-34.799660" time="0.000000" curveInValue="-1.000000,-34.799660" curveOutValue="3845.333496,-34.799660" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="5082753297855977111" start="11536" value="-34.799660" time="11536.000000" curveInValue="7690.666504,-34.799660" curveOutValue="11537.000000,-34.799660" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodeAnimLayer guid="11050300023931773397" name="动画层">
+            <CCutsceneElementAnim guid="6287059285531795925" start="994" duration="1367" anim="Stand Right" priority="3" originalDuration="1000" blendTime="555" blendOutTime="555"/>
+        </CCutsceneNodeAnimLayer>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeActor guid="13741905778648197084" name="Dustin_单位_暴雪空天战机" position="-8.868336,-46.453903,-40.878044" scale="1.961082,1.961082,1.961082" rotation="0.000000,0.000000,89.999878" modelLink="Netease_NanaKey_TO_SpaceShutter" shadowBox="0" teamColorDiffuse="0.000000,0.258700,1.000000,1.000000" teamColorEmissive="0.000000,0.258700,1.000000,1.000000">
+        <CCutsceneElementObject guid="5662262788026181596" duration="19979" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="11805628693617223644" name="动画层">
+            <CCutsceneElementAnim guid="5409694727924000732" duration="19979" lockedToEnd="1" anim="Walk Fast" priority="5" originalDuration="666" originalMoveSpeed="425.000000" movespeed="425.000000" looping="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodePropertyValue guid="13503131595169914074" name="属性 - 位置点Y轴" propertyName="positionY">
+            <CCutsceneElementPropertyCurve guid="6766350738558082266" value="-55.479221" time="0.000000" curveInValue="-1.000000,-55.479221" curveOutValue="3848.666748,-47.263649" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="4945603490166916245" start="11546" value="-30.832504" time="11546.000000" curveInValue="7697.333008,-39.048077" curveOutValue="11547.000000,-30.832504" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="13382357576974167174" name="属性 - 位置点Z轴" propertyName="positionZ">
+            <CCutsceneElementPropertyCurve guid="6882243707728129158" value="-40.878044" time="0.000000" curveInValue="-1.000000,-40.878044" curveOutValue="1.000000,-40.878044" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeActor guid="11040109608691874629" name="Dustin_角色_暴雪队长_国旗盔甲" position="2.373703,-42.190384,-29.063255" scale="1.500000,1.500000,1.500000" rotation="0.000000,0.000000,-111.500000" modelLink="NanaKey_TO_CaptainBlizzardskin_unarmedMiddleQu" shadowBox="0" teamColorDiffuse="0.000000,0.258700,1.000000,1.000000" teamColorEmissive="0.000000,0.258700,1.000000,1.000000">
+        <CCutsceneElementObject guid="8020640195356703557" start="4748" duration="15231" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="11531684343889312581" name="动画层">
+            <CCutsceneElementAnim guid="6176550086503611205" start="4748" duration="989" anim="Walk" priority="5" originalDuration="667" originalMoveSpeed="225.000000" movespeed="225.000000" looping="1" blendTime="0" blendOutTime="0"/>
+            <CCutsceneElementAnim guid="5068298886217694911" start="5737" duration="5334" anim="Stand A" priority="3" originalDuration="2667" looping="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodePropertyValue guid="13270697128209182577" name="属性 - 位置点X轴" propertyName="positionX">
+            <CCutsceneElementPropertyCurve guid="5862778381106456111" start="4950" value="2.373703" time="4950.000000" curveInValue="4949.000000,2.373703" curveOutValue="5174.666504,2.373703" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8328857615169305469" start="5624" value="1.504501" time="5624.000000" curveInValue="5399.333496,1.794235" curveOutValue="5821.666504,1.399104" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="7570172947316834655" start="6217" value="1.188309" time="6217.000000" curveInValue="6019.333496,1.188309" curveOutValue="6911.333496,1.188309" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="9181198884512534960" start="8300" value="1.188309" time="8300.000000" curveInValue="7605.666504,1.188309" curveOutValue="9196.666992,1.188309" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8490580682150230068" start="10990" value="1.188309" time="10990.000000" curveInValue="10093.333008,1.188309" curveOutValue="10991.000000,1.188309" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="9721227515159505574" name="属性 - 位置点Y轴" propertyName="positionY">
+            <CCutsceneElementPropertyCurve guid="6624173909710251567" start="4950" value="-42.190384" time="4950.000000" curveInValue="4949.000000,-42.190384" curveOutValue="5174.666504,-42.190384" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="4704511825641290621" start="5624" value="-46.022797" time="5624.000000" curveInValue="5399.333496,-44.745327" curveOutValue="5821.666504,-46.564663" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="8823406071706517855" start="6217" value="-47.648396" time="6217.000000" curveInValue="6019.333008,-47.249233" curveOutValue="7808.000000,-50.861214" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="5835904979995791792" start="10990" value="-56.858742" time="10990.000000" curveInValue="9399.000000,-56.858742" curveOutValue="10991.000000,-56.858742" curveOutType="7" curveInType="7"/>
+        </CCutsceneNodePropertyValue>
+        <CCutsceneNodePropertyValue guid="10626194070540536228" name="属性 - 位置点Z轴" propertyName="positionZ">
+            <CCutsceneElementPropertyCurve guid="6651169389778347567" start="4950" value="-29.063255" time="4950.000000" curveInValue="4949.000000,-29.063255" curveOutValue="5174.666504,-29.063255" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8318639909446957949" start="5624" value="-29.428885" time="5624.000000" curveInValue="5399.333496,-29.307009" curveOutValue="5821.666504,-29.825125" curveOutType="3" curveInType="3"/>
+            <CCutsceneElementPropertyCurve guid="7743836604151071071" start="6217" value="-30.617603" time="6217.000000" curveInValue="5932.334473,-27.359554" curveOutValue="6846.001465,-36.148251" curveOutType="0" curveInType="0"/>
+            <CCutsceneElementPropertyCurve guid="5494147324082196912" start="8300" value="-47.185139" time="8300.000000" curveInValue="7605.680664,-40.099144" curveOutValue="9196.683594,-56.336403" curveOutType="7" curveInType="7"/>
+            <CCutsceneElementPropertyCurve guid="8509169776124055549" start="10990" value="-79.329292" time="10990.000000" curveInValue="10093.333008,-68.614578" curveOutValue="10991.000000,-79.329292" curveOutType="3" curveInType="3"/>
+        </CCutsceneNodePropertyValue>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeActor guid="11139764917320217865" name="Dustin_装备_喷气式空降背包" position="3.146156,-39.334183,-27.091505" modelLink="NanaKey_WP_HaloSuit" shadowBox="0" teamColorDiffuse="0.705800,0.078300,0.117600,1.000000" teamColorEmissive="0.545100,0.062700,0.086100,1.000000">
+        <CCutsceneElementObject guid="5036488674556704009" start="4748" duration="15231" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="11581656252580074694" name="Animation Layer">
+            <CCutsceneElementAnim guid="5322240498154837190" start="4860" duration="1357" anim="Stand" priority="3" originalDuration="1000" looping="1"/>
+            <CCutsceneElementAnim guid="5186094239644619974" start="6217" duration="13553" anim="Stand Work A" priority="6" originalDuration="1000" looping="1" fullMatchLegacy="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodeAttachment guid="12785638720698553542" name="附着物">
+            <CCutsceneElementAttachment guid="7410540304269808838" start="4860" duration="15119" lockedToEnd="1" attachGuid="11040109608691874629" attachName="Ref_Hardpoint" offsetX="0.000000" offsetY="0.000000" offsetZ="0.000000" rotationX="45.000000" rotationY="-13.000000" rotationZ="0.000000"/>
+        </CCutsceneNodeAttachment>
+    </CCutsceneNodeActor>
+    <CCutsceneNodeActor guid="9726301137958425301" name="Dustin_装备_暴雪队长标准突击步枪" position="-149.944000,-74.271088,-89.599106" scale="1.500000,1.500000,1.500000" modelLink="NanaKey_WP_MikeMorhaime_MachineGun" shadowBox="0" teamColorDiffuse="0.000000,0.258700,1.000000,1.000000" teamColorEmissive="0.000000,0.258700,1.000000,1.000000">
+        <CCutsceneElementObject guid="6711969343027892949" start="4860" duration="15119" lockedToEnd="1"/>
+        <CCutsceneNodeAnimLayer guid="12881469985691082592" name="动画层">
+            <CCutsceneElementAnim guid="9184923429390327648" start="4860" duration="15119" lockedToEnd="1" anim="Stand" priority="3" originalDuration="1000" looping="1"/>
+        </CCutsceneNodeAnimLayer>
+        <CCutsceneNodeAttachment guid="10763817514002714255" name="附着物">
+            <CCutsceneElementAttachment guid="7863786524079459983" start="4860" duration="15119" lockedToEnd="1" attachGuid="11040109608691874629" attachName="Ref_Weapon" offsetX="0.000000" offsetY="0.000000" offsetZ="0.000000" rotationX="0.000000" rotationY="-13.000000" rotationZ="0.000000"/>
+        </CCutsceneNodeAttachment>
+    </CCutsceneNodeActor>
+</CutsceneState>

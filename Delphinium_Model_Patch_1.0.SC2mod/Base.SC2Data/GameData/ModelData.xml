@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CModel id="FrogKey_EF_CrashingAsteroid">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid.m3"/>
+    </CModel>
+    <CModel id="FrogKey_EF_CrashingAsteroid_Impact">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid_Impact.m3"/>
+    </CModel>
+    <CModel id="FrogKey_EF_CrashingAsteroid_Large_Impact">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid_Large_Impact.m3"/>
+    </CModel>
+    <CModel id="FrogKey_EF_CrashingAsteroid_Large_Missile">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid_Large_Missile.m3"/>
+    </CModel>
+    <CModel id="FrogKey_EF_CrashingAsteroid_Large_Missile_ShieldImpact">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid_Large_Missile_ShieldImpact.m3"/>
+    </CModel>
+    <CModel id="FrogKey_EF_CrashingAsteroid_ShieldImpact">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid_ShieldImpact.m3"/>
+    </CModel>
+    <CModel id="FrogKey_EF_CrashingAsteroid_missile">
+        <Model value="NanaKeyEffects\Missiles\FrogKey_EF_CrashingAsteroid_missile.m3"/>
+        <VariationCount value="6"/>
+    </CModel>
+    <CModel id="FrogKey_Purifier_Energy_Generator_portrait">
+        <Model value="CutScene\Buildings\FrogKey_Purifier_Energy_Generator_portrait.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Aiur_Power_Point">
+        <Model value="CutScene\Buildings\FrogKey_TO_Aiur_Power_Point.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Aiur_Power_Point_Proxy">
+        <Model value="CutScene\Buildings\FrogKey_TO_Aiur_Power_Point_Proxy.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Aiur_Power_Point_portrait">
+        <Model value="CutScene\Buildings\FrogKey_TO_Aiur_Power_Point_portrait.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_PurifierBase">
+        <Model value="CutScene\Buildings\FrogKey_TO_PurifierBase.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_PurifierBase_portrait">
+        <Model value="CutScene\Buildings\FrogKey_TO_PurifierBase_portrait.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_PurifierPad">
+        <Model value="CutScene\Buildings\FrogKey_TO_PurifierPad.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_PurifierPad_portrait">
+        <Model value="CutScene\Buildings\FrogKey_TO_PurifierPad_portrait.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Raw_Solarite_EnergyParticle_Beam">
+        <Model value="NanaKeyEffects\Particles\FrogKey_TO_Raw_Solarite_EnergyParticle_Beam.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Raw_Solarite_EnergyParticle_Impact">
+        <Model value="NanaKeyEffects\Particles\FrogKey_TO_Raw_Solarite_EnergyParticle_Impact.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Raw_Solarite_EnergyParticle_Launch">
+        <Model value="NanaKeyEffects\Particles\FrogKey_TO_Raw_Solarite_EnergyParticle_Launch.m3"/>
+    </CModel>
+    <CModel id="FrogKey_TO_Raw_Solarite_portrait">
+        <Model value="NanaKeyEffects\Particles\FrogKey_TO_Raw_Solarite_portrait.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_AIBeaconHarassPing_Blue">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_AIBeaconHarassPing_Blue.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_AIBeaconHarassPing_Golden">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_AIBeaconHarassPing_Golden.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_AIBeaconHarassPing_Green">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_AIBeaconHarassPing_Green.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Aiur_Power_Point">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Aiur_Power_Point.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Asteroid">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Asteroid.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Asteroid_Activated">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Asteroid_Activated.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Destroyed_Area">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Destroyed_Area.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Destroyed_Explosion">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Destroyed_Explosion.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Purifier_Energy_Area">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Purifier_Energy_Area.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Purifier_Energy_Area_Activated">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Purifier_Energy_Area_Activated.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Purifier_Energy_Generator">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Purifier_Energy_Generator.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Purifier_Energy_Generator_Activated">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Purifier_Energy_Generator_Activated.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Raw_Solarite">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Raw_Solarite.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_Raw_Solarite_Activated">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_Raw_Solarite_Activated.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_SmallAsteroid_Explosion">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_SmallAsteroid_Explosion.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Pings_SmallAsteroid_Launch">
+        <Model value="NanaKeyUI\Ping\FrogKey_UI_Pings_SmallAsteroid_Launch.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Timer_AsteroidCursor_Large">
+        <Model value="NanaKeyUI\FrogKey_UI_Timer_AsteroidCursor_Large.m3"/>
+    </CModel>
+    <CModel id="FrogKey_UI_Timer_AsteroidCursor_Small">
+        <Model value="NanaKeyUI\FrogKey_UI_Timer_AsteroidCursor_Small.m3"/>
+    </CModel>
+    <CModel id="Frog_EF_SkyShield">
+        <Model value="Shield\Frog_EF_SkyShield.m3"/>
+    </CModel>
+    <CModel id="Frog_EF_SkyShield_Impact">
+        <Model value="Shield\Frog_EF_SkyShield_Impact.m3"/>
+    </CModel>
+    <CModel id="NanaKey_BG_TankmodeSteals">
+        <Model value="NanaKey_Terrain\NanaKey_BG_TankmodeSteals.m3"/>
+    </CModel>
+    <CModel id="NanaKey_BG_Tankmode_Water">
+        <Model value="NanaKey_Terrain\NanaKey_BG_Tankmode_Water.m3"/>
+    </CModel>
+    <CModel id="NanaKey_Background_CloudScene_Horizontal">
+        <Model value="CutScene\Background\NanaKey_Background_CloudScene_Horizontal.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_AH42_Missile_Launch">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_AH42_Missile_Launch.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_BuffBurst_Blue">
+        <Model value="NanaKeyEffects\Buff\NanaKey_EF_BuffBurst_Blue.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_ImplosionBomb_Purifier">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_ImplosionBomb_Purifier.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_ImplosionBomb_Purifier_Missile">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_ImplosionBomb_Purifier_Missile.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_KAMEHAMEHA_missile">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_KAMEHAMEHA_missile.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Missile_MuleliskMissile">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_Missile_MuleliskMissile.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_QuantumBlink">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_QuantumBlink.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Word_Pah">
+        <Model value="NanaKeyEffects\NanaKey_EF_Word_Pah.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Word_Pang">
+        <Model value="NanaKeyEffects\NanaKey_EF_Word_Pang.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_ZeroGravity_Cursor">
+        <Model value="NanaKeyUI\NanaKey_EF_ZeroGravity_Cursor.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_ZerusFallingRockFixed">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_ZerusFallingRockFixed.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_lightningBlot">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_lightningBlot.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_lightningStrikeSingleV2">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_lightningStrikeSingleV2.m3"/>
+    </CModel>
+    <CModel id="NanaKey_Item_DropItemMarker_Ship">
+        <Model value="NanaKeyUI\NanaKey_Item_DropItemMarker_Ship.m3"/>
+    </CModel>
+    <CModel id="NanaKey_Item_DropItemMarker_Star">
+        <Model value="NanaKeyUI\NanaKey_Item_DropItemMarker_Star.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_AH42">
+        <Model value="RussianArmy\NanaKey_TO_AH42.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_AH42_Death">
+        <Model value="RussianArmy\NanaKey_TO_AH42_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Anser_Trail">
+        <Model value="Weapon\NanaKey_TO_Anser_Trail.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_BlackOPsSCV">
+        <Model value="Character\BlackOPsSCV\NanaKey_TO_BlackOPsSCV.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_black">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_black.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_blue">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_blue.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_brown">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_brown.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_darkgreen">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_darkgreen.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_gray">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_gray.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_green">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_green.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_black">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_black.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_blue">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_blue.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_classic">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_classic.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_copper">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_copper.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_gold">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_gold.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_green">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_green.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_orange">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_red">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_red.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_silver">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_silver.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_mechanical_yellow">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_mechanical_yellow.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_orange">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_pink">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_pink.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_purple">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_purple.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_red">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_red.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_teal">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_teal.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_tropical">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_tropical.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_tropicalblue">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_tropicalblue.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_white">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_white.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FrogPet_yellow">
+        <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_yellow.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_FultonBalloon_V1">
+        <Model value="Weapon\NanaKey_TO_FultonBalloon_V1.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Gemini">
+        <Model value="Character\SCBoy\NanaKey_TO_Gemini.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Gemini_Death">
+        <Model value="Character\SCBoy\NanaKey_TO_Gemini_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Goldcoin">
+        <Model value="Misc\NanaKey_TO_Goldcoin.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_GreenHat">
+        <Model value="NanaKeyEffects\NanaKey_TO_GreenHat.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_ItalianCannon">
+        <Model value="Weapon\NanaKey_TO_ItalianCannon.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Lifebuoy">
+        <Model value="NanaKeyEffects\NanaKey_TO_Lifebuoy.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Marauder_Murloc">
+        <Model value="Monsters\NanaKey_TO_Marauder_Murloc.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Marine_Junker_RPG_Left">
+        <Model value="Monsters\NanaKey_TO_Marine_Junker_RPG_Left.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Marine_Junker_RPG_Right">
+        <Model value="Monsters\NanaKey_TO_Marine_Junker_RPG_Right.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Mulelisk">
+        <Model value="Monsters\NanaKey_TO_Mulelisk.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Mulelisk_Death">
+        <Model value="Monsters\NanaKey_TO_Mulelisk_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RageComicMask">
+        <Model value="Misc\NanaKey_TO_RageComicMask.m3"/>
+        <VariationCount value="5"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RubberDuck">
+        <Model value="Misc\NanaKey_TO_RubberDuck.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Seahorse_Blue">
+        <Model value="Misc\NanaKey_TO_Seahorse_Blue.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Seahorse_Green">
+        <Model value="Misc\NanaKey_TO_Seahorse_Green.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Seahorse_Orange">
+        <Model value="Misc\NanaKey_TO_Seahorse_Orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Seahorse_Purple">
+        <Model value="Misc\NanaKey_TO_Seahorse_Purple.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Spikesroadblock">
+        <Model value="Misc\NanaKey_TO_Spikesroadblock.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Studroller">
+        <Model value="Misc\NanaKey_TO_Studroller.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_SuperBola">
+        <Model value="Misc\NanaKey_TO_SuperBola.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_SuperBola_Circle">
+        <Model value="Misc\NanaKey_TO_SuperBola_Circle.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_SuperBola_Roll">
+        <Model value="Misc\NanaKey_TO_SuperBola_Roll.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_SwordTrap">
+        <Model value="Misc\NanaKey_TO_SwordTrap.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Teslacoil">
+        <Model value="RussianArmy\NanaKey_TO_Teslacoil.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Teslacoil_Death">
+        <Model value="RussianArmy\NanaKey_TO_Teslacoil_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Teslalift">
+        <Model value="CutScene\Buildings\NanaKey_TO_Teslalift.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_VoidSeeker_ShieldFixed">
+        <Model value="Spaceships\NanaKey_TO_VoidSeeker_ShieldFixed.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_VoidSeeker_Warp_In">
+        <Model value="Spaceships\NanaKey_TO_VoidSeeker_Warp_In.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_VoidSeeker_Warp_Out">
+        <Model value="Spaceships\NanaKey_TO_VoidSeeker_Warp_Out.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_kryptonite">
+        <Model value="NanaKeyEffects\NanaKey_TO_kryptonite.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_kryptonite_Death">
+        <Model value="NanaKeyEffects\NanaKey_TO_kryptonite_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_landingship">
+        <Model value="Spaceships\NanaKey_TO_landingship.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_landingship_Death">
+        <Model value="Spaceships\NanaKey_TO_landingship_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_landingship_Warp_In">
+        <Model value="Spaceships\NanaKey_TO_landingship_Warp_In.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_landingship_Warp_Out">
+        <Model value="Spaceships\NanaKey_TO_landingship_Warp_Out.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Ping_Voidseeker">
+        <Model value="NanaKeyUI\Ping\NanaKey_UI_Ping_Voidseeker.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Upgradepanel_V2">
+        <Model value="NanaKeyUI\SpaceCF\NanaKey_UI_Upgradepanel_V2.m3"/>
+    </CModel>
+    <CModel id="NanaKey_BG_TankmodeWalls">
+        <Model value="NanaKey_Terrain\NanaKey_BG_TankmodeWalls.m3"/>
+    </CModel>
+    <CModel id="NanaKey_WP_AH42_Missile">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_WP_AH42_Missile.m3"/>
+    </CModel>
+    <CModel id="NanaKey_WP_HaloSuit">
+        <Model value="Weapon\NanaKey_WP_HaloSuit.m3"/>
+    </CModel>
+    <CModel id="NanaKey_WP_clusterbomb">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_WP_clusterbomb.m3"/>
+    </CModel>
+    <CModel id="NanaKey_WP_clusterbomb_Split">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_WP_clusterbomb_Split.m3"/>
+    </CModel>
+    <CModel id="NanaKey_Zeratul_Respawn">
+        <Model value="CutScene\Buildings\NanaKey_Zeratul_Respawn.m3"/>
+    </CModel>
+    <CModel id="NanaKey_cs_Battlestation_MechBridge">
+        <Model value="Assets\Doodads\BattleStation_MechBridgeDestroyed\BattleStation_MechBridgeDestroyed.m3"/>
+    </CModel>
+</Catalog>

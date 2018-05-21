@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocInfo>
+    <Dependencies>
+        <Value>bnet:虚空之遗 (战役)/0.0/999,file:Campaigns/Void.SC2Campaign</Value>
+        <Value>bnet:虚空之遗剧情 (战役)/0.0/999,file:Campaigns/VoidStory.SC2Campaign</Value>
+        <Value>bnet:诺娃隐秘行动（美术Mod）/0.0/999,file:Mods/NovaStoryAssets.SC2Mod</Value>
+        <Value>bnet:自由之翼 (战役)/0.0/999,file:Campaigns/Liberty.SC2Campaign</Value>
+        <Value>bnet:自由之翼剧情 (战役)/0.0/999,file:Campaigns/LibertyStory.SC2Campaign</Value>
+        <Value>bnet:虫群之心(战役)/0.0/999,file:Campaigns/Swarm.SC2Campaign</Value>
+        <Value>bnet:虫群之心剧情 (战役)/0.0/999,file:Campaigns/SwarmStory.SC2Campaign</Value>
+        <Value>bnet:Delphinium_Model_1.0/0.0/96121,file:Mods\Game\Delphinium_Model_1.0.SC2mod</Value>
+    </Dependencies>
+</DocInfo>

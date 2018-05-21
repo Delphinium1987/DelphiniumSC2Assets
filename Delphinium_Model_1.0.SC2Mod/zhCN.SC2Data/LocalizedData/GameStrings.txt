@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=We want to share all art assets we have used in our SC2 mod "Blizzard Enforcement" to the community freely. Please give us credits.<n/><n/>As an open source project, we only provide non-profit use authorization, please contact us if you have commercial purposes. (jifengxiang1@gmail.com)
+DocInfo/DescShort=任意
+DocInfo/Name=Delphinium_Model_1.0

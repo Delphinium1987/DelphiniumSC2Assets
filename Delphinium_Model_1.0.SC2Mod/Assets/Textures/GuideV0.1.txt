@@ -1,0 +1,64 @@
+动作相互独立不干扰
+Stand A 左侧生命值100->000
+Stand B 左侧生命值000->100
+Stand C 左侧能量值100->000
+Stand D 左侧能量值000->100
+Stand E 左侧护盾值100->000
+Stand F 左侧护盾值000->100
+Stand G 左侧界面展开
+Stand H 左侧界面收起
+GLstand （无需设置）小型细节动画，心率、扫描线，随机数，指向标，音频传输数据，程序段。
+Spell 01 左侧人物头像（正常）
+Spell 02 左侧人物头像（喜悦）
+Spell 03 左侧人物头像（愤怒）
+Spell 04 左侧人物头像（悲伤）
+Spell 05 左侧人物头像（受伤）
+Spell 06 左侧人物头像（惊讶）
+Spell 07 左侧人物头像（严肃）
+Spell 08 左侧人物头像（Sound Only）
+Stand I 右侧生命值100->000
+Stand J 右侧生命值000->100
+Stand K 右侧能量值100->000
+Stand L 右侧能量值000->100
+Stand M 右侧护盾值100->000
+Stand N 右侧护盾值000->100
+Stand G 右侧界面展开
+Stand H 右侧界面收起
+Spell 11 右侧人物头像（正常）
+Spell 12 右侧人物头像（喜悦）
+Spell 13 右侧人物头像（愤怒）
+Spell 14 右侧人物头像（悲伤）
+Spell 15 右侧人物头像（受伤）
+Spell 16 右侧人物头像（惊讶）
+Spell 17 右侧人物头像（严肃）
+Spell 18 右侧人物头像（Sound Only）
+Birth 01 主屏幕启动（包含弹出，主机自检步骤，开机logo）
+Death 01 主屏幕关闭
+Birth 02 播放Lockon效果
+Birth 10 热成像，夜视仪关闭 （注：常规模式下仍需要激活该动作确保显示器透明）
+Birth 11 热成像打开
+Birth 12 夜视仪（绿色滤镜）打开
+Birth 13 夜视仪（黑白滤镜）打开
+Stand Q 抬头显示仪方向指示左向右滚动
+Stand R 抬头显示仪方向指示右向左滚动
+Attack 01 绿色，Lockon字样
+Attack 02 红色，Lockon字样
+Attack 03 红色Warning字样
+Attack 04 蓝色Scan（扫描）字样
+Attack 05 蓝色Charge（充能，装填）
+Stand S 对话系统（上方）关闭 （注：常规模式下仍需要激活该动作使得上方对话系统关闭）
+Stand T 对话系统（上方）打开
+Stand U 对话系统（下方）关闭 （注：常规模式下仍需要激活该动作使得下方对话系统关闭）
+Stand V 对话系统（下方）打开
+
+印花贴图（人物姓名）左
+NamesLeft_Decal_01.tga
+印花贴图（人物姓名）右
+NamesRight_Decal_01.tga
+人物头像左
+PortaitsLeft_Forward01.tga
+人物头像右
+PortaitsRight_Forward01.tga
+RTT通道6（编辑器中RTT通道为6）
+用于RTT的预设相机：Heatcam 75°，正交模式。
+用于UI的主相机：Maincam 75°，正交模式。

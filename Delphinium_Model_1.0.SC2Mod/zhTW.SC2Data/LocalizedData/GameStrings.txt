@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=TestZipped_792651241SD
+DocInfo/DescShort=任意
+DocInfo/Name=Delphinium_Model_1.0

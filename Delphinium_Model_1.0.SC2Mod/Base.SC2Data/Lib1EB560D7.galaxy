@@ -1,0 +1,40 @@
+include "TriggerLibs/natives"
+
+//--------------------------------------------------------------------------------------------------
+// Library: DustinMod
+//--------------------------------------------------------------------------------------------------
+// Trigger Declarations
+trigger lib1EB560D7_gt_DustinMod;
+
+// Triggers
+//--------------------------------------------------------------------------------------------------
+// Trigger: DustinMod
+//--------------------------------------------------------------------------------------------------
+bool lib1EB560D7_gt_DustinMod_Func (bool testConds, bool runActions) {
+    return true;
+}
+
+//--------------------------------------------------------------------------------------------------
+void lib1EB560D7_gt_DustinMod_Init () {
+    lib1EB560D7_gt_DustinMod = TriggerCreate("lib1EB560D7_gt_DustinMod_Func");
+}
+
+void lib1EB560D7_InitTriggers () {
+    lib1EB560D7_gt_DustinMod_Init();
+}
+
+//--------------------------------------------------------------------------------------------------
+// Library Initialization
+//--------------------------------------------------------------------------------------------------
+bool lib1EB560D7_InitLib_completed = false;
+
+void lib1EB560D7_InitLib () {
+    if (lib1EB560D7_InitLib_completed) {
+        return;
+    }
+
+    lib1EB560D7_InitTriggers();
+
+    lib1EB560D7_InitLib_completed = true;
+}
+

@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CTexture id="AgriaDirt">
+        <File value="Assets\Textures\Agria_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaDirt_norm">
+        <File value="Assets\Textures\Agria_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaDirtRough">
+        <File value="Assets\Textures\Agria_Dirt_Rough.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaDirtRough_norm">
+        <File value="Assets\Textures\Agria_Dirt_RoughNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaRock">
+        <File value="Assets\Textures\Agria_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaRock_norm">
+        <File value="Assets\Textures\Agria_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaGrassYellow">
+        <File value="Assets\Textures\Agria_Grass_Yellow.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaGrassYellow_norm">
+        <File value="Assets\Textures\Agria_Grass_YellowNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaGrassGreen">
+        <File value="Assets\Textures\Agria_Grass_Green.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaGrassGreen_norm">
+        <File value="Assets\Textures\Agria_Grass_GreenNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaFoliage">
+        <File value="Assets\Textures\Agria_Foliage.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaFoliage_norm">
+        <File value="Assets\Textures\Agria_FoliageNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaCrops">
+        <File value="Assets\Textures\Agria_Crops.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaCrops_norm">
+        <File value="Assets\Textures\Agria_CropsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AgriaConcrete">
+        <File value="Assets\Textures\Agria_Concrete.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AgriaConcrete_norm">
+        <File value="Assets\Textures\Agria_ConcreteNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurDirt">
+        <File value="Assets\Textures\Aiur_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurDirt_norm">
+        <File value="Assets\Textures\Aiur_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurGrass">
+        <File value="Assets\Textures\Aiur_Grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurGrass_norm">
+        <File value="Assets\Textures\Aiur_GrassNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurRock">
+        <File value="Assets\Textures\Aiur_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurRock_norm">
+        <File value="Assets\Textures\Aiur_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurTiles">
+        <File value="Assets\Textures\Aiur_Tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurTiles_norm">
+        <File value="Assets\Textures\Aiur_TilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurSmallBricks">
+        <File value="Assets\Textures\Aiur_Small_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurSmallBricks_norm">
+        <File value="Assets\Textures\Aiur_Small_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurLargeBricks">
+        <File value="Assets\Textures\Aiur_Large_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurLargeBricks_norm">
+        <File value="Assets\Textures\Aiur_Large_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurGrunge">
+        <File value="Assets\Textures\Aiur_Grunge.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurGrunge_norm">
+        <File value="Assets\Textures\Aiur_GrungeNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AiurCreepHoles">
+        <File value="Assets\Textures\Aiur_Creep_Holes.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AiurCreepHoles_norm">
+        <File value="Assets\Textures\Aiur_Creep_HolesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusMetal">
+        <File value="Assets\Textures\Avernus_Metal.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusMetal_norm">
+        <File value="Assets\Textures\Avernus_MetalNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusSmallTiles">
+        <File value="Assets\Textures\Avernus_SmallTiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusSmallTiles_norm">
+        <File value="Assets\Textures\Avernus_SmallTilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusLargeTiles">
+        <File value="Assets\Textures\Avernus_LargeTiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusLargeTiles_norm">
+        <File value="Assets\Textures\Avernus_LargeTilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusMesh">
+        <File value="Assets\Textures\Avernus_Mesh.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusMesh_norm">
+        <File value="Assets\Textures\Avernus_MeshNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusPlates">
+        <File value="Assets\Textures\Avernus_Plates.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusPlates_norm">
+        <File value="Assets\Textures\Avernus_PlatesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusPanels">
+        <File value="Assets\Textures\Avernus_Panels.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusPanels_norm">
+        <File value="Assets\Textures\Avernus_PanelsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusDirt">
+        <File value="Assets\Textures\Avernus_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusDirt_norm">
+        <File value="Assets\Textures\Avernus_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="AvernusRock">
+        <File value="Assets\Textures\Avernus_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="AvernusRock_norm">
+        <File value="Assets\Textures\Avernus_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirDirtLight">
+        <File value="Assets\Textures\Bel_Shir_Dirt_Light.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirDirtLight_norm">
+        <File value="Assets\Textures\Bel_Shir_Dirt_LightNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirDirtDark">
+        <File value="Assets\Textures\Bel_Shir_Dirt_Dark.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirDirtDark_norm">
+        <File value="Assets\Textures\Bel_Shir_Dirt_DarkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirBrush">
+        <File value="Assets\Textures\Bel_Shir_Brush.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirBrush_norm">
+        <File value="Assets\Textures\Bel_Shir_BrushNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirGrassLight">
+        <File value="Assets\Textures\Bel_Shir_Grass_Light.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirGrassLight_norm">
+        <File value="Assets\Textures\Bel_Shir_Grass_LightNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirGrassDark">
+        <File value="Assets\Textures\Bel_Shir_Grass_Dark.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirGrassDark_norm">
+        <File value="Assets\Textures\Bel_Shir_Grass_DarkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirSmallTiles">
+        <File value="Assets\Textures\Bel_Shir_SmallTiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirSmallTiles_norm">
+        <File value="Assets\Textures\Bel_Shir_SmallTilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirBricksSmall">
+        <File value="Assets\Textures\Bel_Shir_Bricks_Small.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirBricksSmall_norm">
+        <File value="Assets\Textures\Bel_Shir_Bricks_SmallNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BelShirBricksLarge">
+        <File value="Assets\Textures\Bel_Shir_Bricks_Large.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BelShirBricksLarge_norm">
+        <File value="Assets\Textures\Bel_Shir_Bricks_LargeNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaMetal">
+        <File value="Assets\Textures\Braxis_Metal.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaMetal_norm">
+        <File value="Assets\Textures\Braxis_MetalNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaMetalDetail">
+        <File value="Assets\Textures\Braxis_MetalDetail.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaMetalDetail_norm">
+        <File value="Assets\Textures\Braxis_MetalDetailNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaPlates">
+        <File value="Assets\Textures\Braxis_Plates.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaPlates_norm">
+        <File value="Assets\Textures\Braxis_PlatesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaDarkPlates">
+        <File value="Assets\Textures\Braxis_DarkPlates.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaDarkPlates_norm">
+        <File value="Assets\Textures\Braxis_DarkPlatesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaWreckedPlates">
+        <File value="Assets\Textures\Braxis_WreckedPlates.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaWreckedPlates_norm">
+        <File value="Assets\Textures\Braxis_WreckedPlatesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaMesh">
+        <File value="Assets\Textures\Braxis_Mesh.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaMesh_norm">
+        <File value="Assets\Textures\Braxis_MeshNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaRust">
+        <File value="Assets\Textures\Braxis_Rust.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaRust_norm">
+        <File value="Assets\Textures\Braxis_RustNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaRock">
+        <File value="Assets\Textures\Braxis_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="BraxisAlphaRock_norm">
+        <File value="Assets\Textures\Braxis_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarPanels">
+        <File value="Assets\Textures\Castanar_Panels.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarPanels_norm">
+        <File value="Assets\Textures\Castanar_PanelsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarTiles">
+        <File value="Assets\Textures\Castanar_Tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarTiles_norm">
+        <File value="Assets\Textures\Castanar_TilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarSmallTiles">
+        <File value="Assets\Textures\Castanar_SmallTiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarSmallTiles_norm">
+        <File value="Assets\Textures\Castanar_SmallTilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarGrid">
+        <File value="Assets\Textures\Castanar_Grid.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarGrid_norm">
+        <File value="Assets\Textures\Castanar_GridNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarRock">
+        <File value="Assets\Textures\Castanar_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarRock_norm">
+        <File value="Assets\Textures\Castanar_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarMetal">
+        <File value="Assets\Textures\Castanar_Metal.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarMetal_norm">
+        <File value="Assets\Textures\Castanar_MetalNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarMesh">
+        <File value="Assets\Textures\Castanar_Mesh.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarMesh_norm">
+        <File value="Assets\Textures\Castanar_MeshNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CastanarGrating">
+        <File value="Assets\Textures\Castanar_Grating.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CastanarGrating_norm">
+        <File value="Assets\Textures\Castanar_GratingNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDirtLight">
+        <File value="Assets\Textures\Char_Dirt_Light.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDirtLight_norm">
+        <File value="Assets\Textures\Char_Dirt_LightNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDirt">
+        <File value="Assets\Textures\Char_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDirt_norm">
+        <File value="Assets\Textures\Char_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDirtCracked">
+        <File value="Assets\Textures\Char_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDirtCracked_norm">
+        <File value="Assets\Textures\Char_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharSponge">
+        <File value="Assets\Textures\Char_Sponge.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharSponge_norm">
+        <File value="Assets\Textures\Char_SpongeNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharMud">
+        <File value="Assets\Textures\Char_Mud.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharMud_norm">
+        <File value="Assets\Textures\Char_MudNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharRock">
+        <File value="Assets\Textures\Char_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharRock_norm">
+        <File value="Assets\Textures\Char_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharRedCracks">
+        <File value="Assets\Textures\Char_RedCracks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharRedCracks_norm">
+        <File value="Assets\Textures\Char_RedCracksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharLavaCracks">
+        <File value="Assets\Textures\Char_Lava_Cracks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharLavaCracks_norm">
+        <File value="Assets\Textures\Char_Lava_CracksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenDirt">
+        <File value="Assets\Textures\Haven_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenDirt_norm">
+        <File value="Assets\Textures\Haven_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenLeaves">
+        <File value="Assets\Textures\Haven_Leaves.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenLeaves_norm">
+        <File value="Assets\Textures\Haven_LeavesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenGrassDark">
+        <File value="Assets\Textures\Haven_Grass_Dark.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenGrassDark_norm">
+        <File value="Assets\Textures\Haven_Grass_DarkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenGrass">
+        <File value="Assets\Textures\Haven_Grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenGrass_norm">
+        <File value="Assets\Textures\Haven_GrassNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenGrassLight">
+        <File value="Assets\Textures\Haven_Grass_Light.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenGrassLight_norm">
+        <File value="Assets\Textures\Haven_Grass_LightNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenGrassRocky">
+        <File value="Assets\Textures\Haven_Grass_Rocky.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenGrassRocky_norm">
+        <File value="Assets\Textures\Haven_Grass_RockyNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenRockSmooth">
+        <File value="Assets\Textures\Haven_Rock_Smooth.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenRockSmooth_norm">
+        <File value="Assets\Textures\Haven_Rock_SmoothNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HavenRockRough">
+        <File value="Assets\Textures\Haven_Rock_Rough.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HavenRockRough_norm">
+        <File value="Assets\Textures\Haven_Rock_RoughNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal1">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal1_norm">
+        <File value="Assets\Textures\Korhal1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal2">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal2_norm">
+        <File value="Assets\Textures\Korhal2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal3">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal3_norm">
+        <File value="Assets\Textures\Korhal3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal4">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal4_norm">
+        <File value="Assets\Textures\Korhal4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal5">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal5_norm">
+        <File value="Assets\Textures\Korhal5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal6">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal6_norm">
+        <File value="Assets\Textures\Korhal6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal7">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal7_norm">
+        <File value="Assets\Textures\Korhal7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Korhal8">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Korhal8_norm">
+        <File value="Assets\Textures\Korhal8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraDirt">
+        <File value="Assets\Textures\MarSara_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraDirt_norm">
+        <File value="Assets\Textures\MarSara_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraSand">
+        <File value="Assets\Textures\MarSara_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraSand_norm">
+        <File value="Assets\Textures\MarSara_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraRocky">
+        <File value="Assets\Textures\MarSara_Rocky.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraRocky_norm">
+        <File value="Assets\Textures\MarSara_RockyNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraDirtCracked">
+        <File value="Assets\Textures\MarSara_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraDirtCracked_norm">
+        <File value="Assets\Textures\MarSara_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraDarkSand">
+        <File value="Assets\Textures\MarSara_Dark_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraDarkSand_norm">
+        <File value="Assets\Textures\MarSara_Dark_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraBlackenedRock">
+        <File value="Assets\Textures\MarSara_Blackened_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraBlackenedRock_norm">
+        <File value="Assets\Textures\MarSara_Blackened_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraConcrete">
+        <File value="Assets\Textures\MarSara_Concrete.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraConcrete_norm">
+        <File value="Assets\Textures\MarSara_ConcreteNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MarSaraPanels">
+        <File value="Assets\Textures\MarSara_Panels.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MarSaraPanels_norm">
+        <File value="Assets\Textures\MarSara_PanelsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffSandDunes">
+        <File value="Assets\Textures\Meinhoff_Sand_Dunes.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffSandDunes_norm">
+        <File value="Assets\Textures\Meinhoff_Sand_DunesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffWhiteSand">
+        <File value="Assets\Textures\Meinhoff_White_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffWhiteSand_norm">
+        <File value="Assets\Textures\Meinhoff_White_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffRoughSand">
+        <File value="Assets\Textures\Meinhoff_Rough_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffRoughSand_norm">
+        <File value="Assets\Textures\Meinhoff_Rough_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffCraters">
+        <File value="Assets\Textures\Meinhoff_Craters.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffCraters_norm">
+        <File value="Assets\Textures\Meinhoff_CratersNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffRock">
+        <File value="Assets\Textures\Meinhoff_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffRock_norm">
+        <File value="Assets\Textures\Meinhoff_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffConcrete">
+        <File value="Assets\Textures\Meinhoff_Concrete.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffConcrete_norm">
+        <File value="Assets\Textures\Meinhoff_ConcreteNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffPanels">
+        <File value="Assets\Textures\Meinhoff_Panels.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffPanels_norm">
+        <File value="Assets\Textures\Meinhoff_PanelsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MeinhoffGrating">
+        <File value="Assets\Textures\Meinhoff_Grating.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MeinhoffGrating_norm">
+        <File value="Assets\Textures\Meinhoff_GratingNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythDirt">
+        <File value="Assets\Textures\Monlyth_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythDirt_norm">
+        <File value="Assets\Textures\Monlyth_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythDunes">
+        <File value="Assets\Textures\Monlyth_Dunes.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythDunes_norm">
+        <File value="Assets\Textures\Monlyth_DunesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythSand">
+        <File value="Assets\Textures\Monlyth_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythSand_norm">
+        <File value="Assets\Textures\Monlyth_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythCracked">
+        <File value="Assets\Textures\Monlyth_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythCracked_norm">
+        <File value="Assets\Textures\Monlyth_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythRock">
+        <File value="Assets\Textures\Monlyth_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythRock_norm">
+        <File value="Assets\Textures\Monlyth_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythTiles">
+        <File value="Assets\Textures\Monlyth_Tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythTiles_norm">
+        <File value="Assets\Textures\Monlyth_TilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythBricks">
+        <File value="Assets\Textures\Monlyth_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythBricks_norm">
+        <File value="Assets\Textures\Monlyth_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="MonlythPlates">
+        <File value="Assets\Textures\Monlyth_Plates.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="MonlythPlates_norm">
+        <File value="Assets\Textures\Monlyth_PlatesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomDirt">
+        <File value="Assets\Textures\NewFolsom_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomDirt_norm">
+        <File value="Assets\Textures\NewFolsom_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomSand">
+        <File value="Assets\Textures\NewFolsom_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomSand_norm">
+        <File value="Assets\Textures\NewFolsom_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomDirtCracked">
+        <File value="Assets\Textures\NewFolsom_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomDirtCracked_norm">
+        <File value="Assets\Textures\NewFolsom_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomRock">
+        <File value="Assets\Textures\NewFolsom_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomRock_norm">
+        <File value="Assets\Textures\NewFolsom_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomConcrete">
+        <File value="Assets\Textures\NewFolsom_Concrete.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomConcrete_norm">
+        <File value="Assets\Textures\NewFolsom_ConcreteNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomTiles">
+        <File value="Assets\Textures\NewFolsom_Tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomTiles_norm">
+        <File value="Assets\Textures\NewFolsom_TilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomGrating">
+        <File value="Assets\Textures\NewFolsom_Grating.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomGrating_norm">
+        <File value="Assets\Textures\NewFolsom_GratingNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="NewFolsomMesh">
+        <File value="Assets\Textures\NewFolsom_Mesh.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="NewFolsomMesh_norm">
+        <File value="Assets\Textures\NewFolsom_MeshNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionDirt">
+        <File value="Assets\Textures\PortZion_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionDirt_norm">
+        <File value="Assets\Textures\PortZion_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionDirtCracked">
+        <File value="Assets\Textures\PortZion_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionDirtCracked_norm">
+        <File value="Assets\Textures\PortZion_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionRock">
+        <File value="Assets\Textures\PortZion_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionRock_norm">
+        <File value="Assets\Textures\PortZion_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionTiles">
+        <File value="Assets\Textures\PortZion_Tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionTiles_norm">
+        <File value="Assets\Textures\PortZion_TilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionJunk">
+        <File value="Assets\Textures\PortZion_Junk.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionJunk_norm">
+        <File value="Assets\Textures\PortZion_JunkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionGrating">
+        <File value="Assets\Textures\PortZion_Grating.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionGrating_norm">
+        <File value="Assets\Textures\PortZion_GratingNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionMesh">
+        <File value="Assets\Textures\PortZion_Mesh.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionMesh_norm">
+        <File value="Assets\Textures\PortZion_MeshNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PortZionConveyorBelt">
+        <File value="Assets\Textures\portzion_grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PortZionConveyorBelt_norm">
+        <File value="Assets\Textures\portzion_grassnormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneDirt">
+        <File value="Assets\Textures\Redstone_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneDirt_norm">
+        <File value="Assets\Textures\Redstone_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneRockyDirt">
+        <File value="Assets\Textures\Redstone_Rocky_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneRockyDirt_norm">
+        <File value="Assets\Textures\Redstone_Rocky_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneRough">
+        <File value="Assets\Textures\Redstone_Rough.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneRough_norm">
+        <File value="Assets\Textures\Redstone_RoughNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneFossils">
+        <File value="Assets\Textures\Redstone_Fossils.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneFossils_norm">
+        <File value="Assets\Textures\Redstone_FossilsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneMud">
+        <File value="Assets\Textures\Redstone_Mud.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneMud_norm">
+        <File value="Assets\Textures\Redstone_MudNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstonePanels">
+        <File value="Assets\Textures\Redstone_Panels.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstonePanels_norm">
+        <File value="Assets\Textures\Redstone_PanelsNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneRock">
+        <File value="Assets\Textures\Redstone_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneRock_norm">
+        <File value="Assets\Textures\Redstone_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="RedstoneLavaCracks">
+        <File value="Assets\Textures\Redstone_Lava_Cracks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="RedstoneLavaCracks_norm">
+        <File value="Assets\Textures\Redstone_Lava_CracksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasSand">
+        <File value="Assets\Textures\Shakuras_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasSand_norm">
+        <File value="Assets\Textures\Shakuras_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasSandDark">
+        <File value="Assets\Textures\Shakuras_Sand_Dark.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasSandDark_norm">
+        <File value="Assets\Textures\Shakuras_Sand_DarkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasDirtCracked">
+        <File value="Assets\Textures\Shakuras_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasDirtCracked_norm">
+        <File value="Assets\Textures\Shakuras_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasStone">
+        <File value="Assets\Textures\Shakuras_Stone.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasStone_norm">
+        <File value="Assets\Textures\Shakuras_StoneNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasRockCracked">
+        <File value="Assets\Textures\Shakuras_Rock_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasRockCracked_norm">
+        <File value="Assets\Textures\Shakuras_Rock_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasRockRough">
+        <File value="Assets\Textures\Shakuras_Rock_Rough.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasRockRough_norm">
+        <File value="Assets\Textures\Shakuras_Rock_RoughNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasBricks">
+        <File value="Assets\Textures\Shakuras_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasBricks_norm">
+        <File value="Assets\Textures\Shakuras_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ShakurasHextiles">
+        <File value="Assets\Textures\Shakuras_Hextiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ShakurasHextiles_norm">
+        <File value="Assets\Textures\Shakuras_HextilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisDirt">
+        <File value="Assets\Textures\Tarsonis_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisDirt_norm">
+        <File value="Assets\Textures\Tarsonis_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisDirtRough">
+        <File value="Assets\Textures\Tarsonis_Dirt_Rough.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisDirtRough_norm">
+        <File value="Assets\Textures\Tarsonis_Dirt_RoughNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisGrass">
+        <File value="Assets\Textures\Tarsonis_Grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisGrass_norm">
+        <File value="Assets\Textures\Tarsonis_GrassNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisCracks">
+        <File value="Assets\Textures\Tarsonis_Cracks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisCracks_norm">
+        <File value="Assets\Textures\Tarsonis_CracksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisRubble">
+        <File value="Assets\Textures\Tarsonis_Rubble.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisRubble_norm">
+        <File value="Assets\Textures\Tarsonis_RubbleNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisConcrete">
+        <File value="Assets\Textures\Tarsonis_Concrete.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisConcrete_norm">
+        <File value="Assets\Textures\Tarsonis_ConcreteNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisDetail">
+        <File value="Assets\Textures\Tarsonis_Detail.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisDetail_norm">
+        <File value="Assets\Textures\Tarsonis_DetailNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TarsonisPlating">
+        <File value="Assets\Textures\Tarsonis_Plating.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TarsonisPlating_norm">
+        <File value="Assets\Textures\Tarsonis_PlatingNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon1">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon1_norm">
+        <File value="Assets\Textures\Typhon1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon2">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon2_norm">
+        <File value="Assets\Textures\Typhon2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon3">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon3_norm">
+        <File value="Assets\Textures\Typhon3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon4">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon4_norm">
+        <File value="Assets\Textures\Typhon4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon5">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon5_norm">
+        <File value="Assets\Textures\Typhon5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon6">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon6_norm">
+        <File value="Assets\Textures\Typhon6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon7">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon7_norm">
+        <File value="Assets\Textures\Typhon7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Typhon8">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Typhon8_norm">
+        <File value="Assets\Textures\Typhon8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorConcrete">
+        <File value="Assets\Textures\Tyrador_Concrete.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorConcrete_norm">
+        <File value="Assets\Textures\Tyrador_ConcreteNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorConcreteCracked">
+        <File value="Assets\Textures\Tyrador_Concrete_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorConcreteCracked_norm">
+        <File value="Assets\Textures\Tyrador_Concrete_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorRubble">
+        <File value="Assets\Textures\Tyrador_Rubble.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorRubble_norm">
+        <File value="Assets\Textures\Tyrador_RubbleNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorGrass">
+        <File value="Assets\Textures\Tyrador_Grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorGrass_norm">
+        <File value="Assets\Textures\Tyrador_GrassNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorMarbleTiles">
+        <File value="Assets\Textures\Tyrador_Marble_Tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorMarbleTiles_norm">
+        <File value="Assets\Textures\Tyrador_Marble_TilesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorBricks">
+        <File value="Assets\Textures\Tyrador_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorBricks_norm">
+        <File value="Assets\Textures\Tyrador_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorBigBricks">
+        <File value="Assets\Textures\Tyrador_Big_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorBigBricks_norm">
+        <File value="Assets\Textures\Tyrador_Big_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="TyradorSquareBricks">
+        <File value="Assets\Textures\Tyrador_Square_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="TyradorSquareBricks_norm">
+        <File value="Assets\Textures\Tyrador_Square_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanDirt">
+        <File value="Assets\Textures\Ulaan_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanDirt_norm">
+        <File value="Assets\Textures\Ulaan_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanDirtCracked">
+        <File value="Assets\Textures\Ulaan_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanDirtCracked_norm">
+        <File value="Assets\Textures\Ulaan_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanSand">
+        <File value="Assets\Textures\Ulaan_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanSand_norm">
+        <File value="Assets\Textures\Ulaan_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanPebbles">
+        <File value="Assets\Textures\Ulaan_Pebbles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanPebbles_norm">
+        <File value="Assets\Textures\Ulaan_PebblesNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanRocky">
+        <File value="Assets\Textures\Ulaan_Rocky.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanRocky_norm">
+        <File value="Assets\Textures\Ulaan_RockyNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanStone">
+        <File value="Assets\Textures\Ulaan_Stone.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanStone_norm">
+        <File value="Assets\Textures\Ulaan_StoneNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanGrunge">
+        <File value="Assets\Textures\Ulaan_Grunge.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanGrunge_norm">
+        <File value="Assets\Textures\Ulaan_GrungeNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlaanRoughRock">
+        <File value="Assets\Textures\Ulaan_Rough_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlaanRoughRock_norm">
+        <File value="Assets\Textures\Ulaan_Rough_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarDirt">
+        <File value="Assets\Textures\Ulnar_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarDirt_norm">
+        <File value="Assets\Textures\Ulnar_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarCracks">
+        <File value="Assets\Textures\Ulnar_Cracks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarCracks_norm">
+        <File value="Assets\Textures\Ulnar_CracksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarRubble">
+        <File value="Assets\Textures\Ulnar_Rubble.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarRubble_norm">
+        <File value="Assets\Textures\Ulnar_RubbleNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarRock">
+        <File value="Assets\Textures\Ulnar_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarRock_norm">
+        <File value="Assets\Textures\Ulnar_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarJunk">
+        <File value="Assets\Textures\Ulnar_Junk.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarJunk_norm">
+        <File value="Assets\Textures\Ulnar_JunkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarHull1">
+        <File value="Assets\Textures\Ulnar_Hull1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarHull1_norm">
+        <File value="Assets\Textures\Ulnar_Hull1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarHull2">
+        <File value="Assets\Textures\Ulnar_Hull2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarHull2_norm">
+        <File value="Assets\Textures\Ulnar_Hull2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="UlnarHull3">
+        <File value="Assets\Textures\Ulnar_Hull3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="UlnarHull3_norm">
+        <File value="Assets\Textures\Ulnar_Hull3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla1">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla1_norm">
+        <File value="Assets\Textures\Valhalla1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla2">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla2_norm">
+        <File value="Assets\Textures\Valhalla2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla3">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla3_norm">
+        <File value="Assets\Textures\Valhalla3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla4">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla4_norm">
+        <File value="Assets\Textures\Valhalla4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla5">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla5_norm">
+        <File value="Assets\Textures\Valhalla5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla6">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla6_norm">
+        <File value="Assets\Textures\Valhalla6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla7">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla7_norm">
+        <File value="Assets\Textures\Valhalla7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Valhalla8">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Valhalla8_norm">
+        <File value="Assets\Textures\Valhalla8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilDirt">
+        <File value="Assets\Textures\Xil_Dirt.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilDirt_norm">
+        <File value="Assets\Textures\Xil_DirtNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilDirtCracked">
+        <File value="Assets\Textures\Xil_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilDirtCracked_norm">
+        <File value="Assets\Textures\Xil_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilSand">
+        <File value="Assets\Textures\Xil_Sand.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilSand_norm">
+        <File value="Assets\Textures\Xil_SandNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilSandCracked">
+        <File value="Assets\Textures\Xil_Sand_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilSandCracked_norm">
+        <File value="Assets\Textures\Xil_Sand_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilRockCracked">
+        <File value="Assets\Textures\Xil_Rock_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilRockCracked_norm">
+        <File value="Assets\Textures\Xil_Rock_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilDirtRocky">
+        <File value="Assets\Textures\Xil_Dirt_Rocky.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilDirtRocky_norm">
+        <File value="Assets\Textures\Xil_Dirt_RockyNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilGrass">
+        <File value="Assets\Textures\xil_grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilGrass_norm">
+        <File value="Assets\Textures\xil_grassnormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="XilRockDark">
+        <File value="Assets\Textures\Xil_Rock_Dark.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="XilRockDark_norm">
+        <File value="Assets\Textures\Xil_Rock_DarkNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasGrass">
+        <File value="Assets\Textures\zhakuldas_grass.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasGrass_norm">
+        <File value="Assets\Textures\zhakuldas_grassnormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasDirtCracked">
+        <File value="Assets\Textures\ZhakulDas_Dirt_Cracked.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasDirtCracked_norm">
+        <File value="Assets\Textures\ZhakulDas_Dirt_CrackedNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasDirtRough">
+        <File value="Assets\Textures\ZhakulDas_Dirt_Rough.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasDirtRough_norm">
+        <File value="Assets\Textures\ZhakulDas_Dirt_RoughNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasDarkRock">
+        <File value="Assets\Textures\ZhakulDas_Dark_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasDarkRock_norm">
+        <File value="Assets\Textures\ZhakulDas_Dark_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasLightRock">
+        <File value="Assets\Textures\ZhakulDas_Light_Rock.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasLightRock_norm">
+        <File value="Assets\Textures\ZhakulDas_Light_RockNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasMercuryCracks">
+        <File value="Assets\Textures\ZhakulDas_Mercury_Cracks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasMercuryCracks_norm">
+        <File value="Assets\Textures\ZhakulDas_Mercury_CracksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasTiles">
+        <File value="Assets\Textures\zhakuldas_tiles.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasTiles_norm">
+        <File value="Assets\Textures\zhakuldas_tilesnormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="ZhakulDasBricks">
+        <File value="Assets\Textures\ZhakulDas_Bricks.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="ZhakulDasBricks_norm">
+        <File value="Assets\Textures\ZhakulDas_BricksNormal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_1">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_1_norm">
+        <File value="Assets\Textures\Char2_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_2">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_2_norm">
+        <File value="Assets\Textures\Char2_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_3">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_3_norm">
+        <File value="Assets\Textures\Char2_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_4">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_4_norm">
+        <File value="Assets\Textures\Char2_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_5">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_5_norm">
+        <File value="Assets\Textures\Char2_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_6">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_6_norm">
+        <File value="Assets\Textures\Char2_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_7">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_7_norm">
+        <File value="Assets\Textures\Char2_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Char2_8">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Char2_8_norm">
+        <File value="Assets\Textures\Char2_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_1">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_1_norm">
+        <File value="Assets\Textures\CharDunes_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_2">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_2_norm">
+        <File value="Assets\Textures\CharDunes_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_3">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_3_norm">
+        <File value="Assets\Textures\CharDunes_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_4">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_4_norm">
+        <File value="Assets\Textures\CharDunes_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_5">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_5_norm">
+        <File value="Assets\Textures\CharDunes_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_6">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_6_norm">
+        <File value="Assets\Textures\CharDunes_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_7">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_7_norm">
+        <File value="Assets\Textures\CharDunes_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="CharDunes_8">
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="CharDunes_8_norm">
+        <File value="Assets\Textures\CharDunes_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab1">
+        <File value="Assets\Textures\Lab_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab1_norm">
+        <File value="Assets\Textures\Lab_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab2">
+        <File value="Assets\Textures\Lab_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab2_norm">
+        <File value="Assets\Textures\Lab_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab3">
+        <File value="Assets\Textures\Lab_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab3_norm">
+        <File value="Assets\Textures\Lab_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab4">
+        <File value="Assets\Textures\Lab_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab4_norm">
+        <File value="Assets\Textures\Lab_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab5">
+        <File value="Assets\Textures\Lab_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab5_norm">
+        <File value="Assets\Textures\Lab_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab6">
+        <File value="Assets\Textures\Lab_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab6_norm">
+        <File value="Assets\Textures\Lab_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab7">
+        <File value="Assets\Textures\Lab_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab7_norm">
+        <File value="Assets\Textures\Lab_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DominionLab8">
+        <File value="Assets\Textures\Lab_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DominionLab8_norm">
+        <File value="Assets\Textures\Lab_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld1">
+        <File value="Assets\Textures\IceWorld_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld1_norm">
+        <File value="Assets\Textures\IceWorld_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld2">
+        <File value="Assets\Textures\IceWorld_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld2_norm">
+        <File value="Assets\Textures\IceWorld_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld3">
+        <File value="Assets\Textures\IceWorld_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld3_norm">
+        <File value="Assets\Textures\IceWorld_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld4">
+        <File value="Assets\Textures\IceWorld_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld4_norm">
+        <File value="Assets\Textures\IceWorld_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld5">
+        <File value="Assets\Textures\IceWorld_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld5_norm">
+        <File value="Assets\Textures\IceWorld_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld6">
+        <File value="Assets\Textures\IceWorld_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld6_norm">
+        <File value="Assets\Textures\IceWorld_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld7">
+        <File value="Assets\Textures\IceWorld_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld7_norm">
+        <File value="Assets\Textures\IceWorld_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="IceWorld8">
+        <File value="Assets\Textures\IceWorld_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="IceWorld8_norm">
+        <File value="Assets\Textures\IceWorld_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld1">
+        <File value="Assets\Textures\DesertWorld_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld1_norm">
+        <File value="Assets\Textures\DesertWorld_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld2">
+        <File value="Assets\Textures\DesertWorld_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld2_norm">
+        <File value="Assets\Textures\DesertWorld_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld3">
+        <File value="Assets\Textures\DesertWorld_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld3_norm">
+        <File value="Assets\Textures\DesertWorld_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld4">
+        <File value="Assets\Textures\DesertWorld_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld4_norm">
+        <File value="Assets\Textures\DesertWorld_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld5">
+        <File value="Assets\Textures\DesertWorld_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld5_norm">
+        <File value="Assets\Textures\DesertWorld_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld6">
+        <File value="Assets\Textures\DesertWorld_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld6_norm">
+        <File value="Assets\Textures\DesertWorld_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld7">
+        <File value="Assets\Textures\DesertWorld_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld7_norm">
+        <File value="Assets\Textures\DesertWorld_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="DesertWorld8">
+        <File value="Assets\Textures\DesertWorld_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="DesertWorld8_norm">
+        <File value="Assets\Textures\DesertWorld_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus1">
+        <File value="Assets\Textures\Zerus_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus1_norm">
+        <File value="Assets\Textures\Zerus_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus2">
+        <File value="Assets\Textures\Zerus_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus2_norm">
+        <File value="Assets\Textures\Zerus_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus3">
+        <File value="Assets\Textures\Zerus_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus3_norm">
+        <File value="Assets\Textures\Zerus_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus4">
+        <File value="Assets\Textures\Zerus_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus4_norm">
+        <File value="Assets\Textures\Zerus_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus5">
+        <File value="Assets\Textures\Zerus_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus5_norm">
+        <File value="Assets\Textures\Zerus_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus6">
+        <File value="Assets\Textures\Zerus_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus6_norm">
+        <File value="Assets\Textures\Zerus_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus7">
+        <File value="Assets\Textures\Zerus_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus7_norm">
+        <File value="Assets\Textures\Zerus_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Zerus8">
+        <File value="Assets\Textures\Zerus_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Zerus8_norm">
+        <File value="Assets\Textures\Zerus_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship1">
+        <File value="Assets\Textures\Starship_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship1_norm">
+        <File value="Assets\Textures\Starship_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship2">
+        <File value="Assets\Textures\Starship_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship2_norm">
+        <File value="Assets\Textures\Starship_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship3">
+        <File value="Assets\Textures\Starship_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship3_norm">
+        <File value="Assets\Textures\Starship_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship4">
+        <File value="Assets\Textures\Starship_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship4_norm">
+        <File value="Assets\Textures\Starship_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship5">
+        <File value="Assets\Textures\Starship_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship5_norm">
+        <File value="Assets\Textures\Starship_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship6">
+        <File value="Assets\Textures\Starship_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship6_norm">
+        <File value="Assets\Textures\Starship_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship7">
+        <File value="Assets\Textures\Starship_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship7_norm">
+        <File value="Assets\Textures\Starship_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="Starship8">
+        <File value="Assets\Textures\Starship_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="Starship8_norm">
+        <File value="Assets\Textures\Starship_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip1">
+        <File value="Assets\Textures\PrisonShip_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip1_norm">
+        <File value="Assets\Textures\PrisonShip_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip2">
+        <File value="Assets\Textures\PrisonShip_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip2_norm">
+        <File value="Assets\Textures\PrisonShip_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip3">
+        <File value="Assets\Textures\PrisonShip_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip3_norm">
+        <File value="Assets\Textures\PrisonShip_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip4">
+        <File value="Assets\Textures\PrisonShip_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip4_norm">
+        <File value="Assets\Textures\PrisonShip_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip5">
+        <File value="Assets\Textures\PrisonShip_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip5_norm">
+        <File value="Assets\Textures\PrisonShip_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip6">
+        <File value="Assets\Textures\PrisonShip_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip6_norm">
+        <File value="Assets\Textures\PrisonShip_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip7">
+        <File value="Assets\Textures\PrisonShip_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip7_norm">
+        <File value="Assets\Textures\PrisonShip_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="PrisonShip8">
+        <File value="Assets\Textures\PrisonShip_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="PrisonShip8_norm">
+        <File value="Assets\Textures\PrisonShip_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter1">
+        <File value="Assets\Textures\HybridLabOuter_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter1_norm">
+        <File value="Assets\Textures\HybridLabOuter_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter2">
+        <File value="Assets\Textures\HybridLabOuter_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter2_norm">
+        <File value="Assets\Textures\HybridLabOuter_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter3">
+        <File value="Assets\Textures\HybridLabOuter_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter3_norm">
+        <File value="Assets\Textures\HybridLabOuter_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter4">
+        <File value="Assets\Textures\HybridLabOuter_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter4_norm">
+        <File value="Assets\Textures\HybridLabOuter_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter5">
+        <File value="Assets\Textures\HybridLabOuter_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter5_norm">
+        <File value="Assets\Textures\HybridLabOuter_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter6">
+        <File value="Assets\Textures\HybridLabOuter_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter6_norm">
+        <File value="Assets\Textures\HybridLabOuter_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter7">
+        <File value="Assets\Textures\HybridLabOuter_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter7_norm">
+        <File value="Assets\Textures\HybridLabOuter_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter8">
+        <File value="Assets\Textures\HybridLabOuter_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabOuter8_norm">
+        <File value="Assets\Textures\HybridLabOuter_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner1">
+        <File value="Assets\Textures\HybridLabInner_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner1_norm">
+        <File value="Assets\Textures\HybridLabInner_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner2">
+        <File value="Assets\Textures\HybridLabInner_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner2_norm">
+        <File value="Assets\Textures\HybridLabInner_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner3">
+        <File value="Assets\Textures\HybridLabInner_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner3_norm">
+        <File value="Assets\Textures\HybridLabInner_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner4">
+        <File value="Assets\Textures\HybridLabInner_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner4_norm">
+        <File value="Assets\Textures\HybridLabInner_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner5">
+        <File value="Assets\Textures\HybridLabInner_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner5_norm">
+        <File value="Assets\Textures\HybridLabInner_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner6">
+        <File value="Assets\Textures\HybridLabInner_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner6_norm">
+        <File value="Assets\Textures\HybridLabInner_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner7">
+        <File value="Assets\Textures\HybridLabInner_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner7_norm">
+        <File value="Assets\Textures\HybridLabInner_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabInner8">
+        <File value="Assets\Textures\HybridLabInner_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabInner8_norm">
+        <File value="Assets\Textures\HybridLabInner_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga1">
+        <File value="Assets\Textures\HybridLabXelNaga_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga1_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga2">
+        <File value="Assets\Textures\HybridLabXelNaga_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga2_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga3">
+        <File value="Assets\Textures\HybridLabXelNaga_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga3_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga4">
+        <File value="Assets\Textures\HybridLabXelNaga_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga4_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga5">
+        <File value="Assets\Textures\HybridLabXelNaga_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga5_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga6">
+        <File value="Assets\Textures\HybridLabXelNaga_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga6_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga7">
+        <File value="Assets\Textures\HybridLabXelNaga_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga7_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga8">
+        <File value="Assets\Textures\HybridLabXelNaga_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="HybridLabXelNaga8_norm">
+        <File value="Assets\Textures\HybridLabXelNaga_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts1">
+        <File value="Assets\Textures\KorhalOutskirts_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts1_norm">
+        <File value="Assets\Textures\KorhalOutskirts_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts2">
+        <File value="Assets\Textures\KorhalOutskirts_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts2_norm">
+        <File value="Assets\Textures\KorhalOutskirts_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts3">
+        <File value="Assets\Textures\KorhalOutskirts_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts3_norm">
+        <File value="Assets\Textures\KorhalOutskirts_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts4">
+        <File value="Assets\Textures\KorhalOutskirts_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts4_norm">
+        <File value="Assets\Textures\KorhalOutskirts_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts5">
+        <File value="Assets\Textures\KorhalOutskirts_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts5_norm">
+        <File value="Assets\Textures\KorhalOutskirts_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts6">
+        <File value="Assets\Textures\KorhalOutskirts_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts6_norm">
+        <File value="Assets\Textures\KorhalOutskirts_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts7">
+        <File value="Assets\Textures\KorhalOutskirts_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts7_norm">
+        <File value="Assets\Textures\KorhalOutskirts_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts8">
+        <File value="Assets\Textures\KorhalOutskirts_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalOutskirts8_norm">
+        <File value="Assets\Textures\KorhalOutskirts_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform1">
+        <File value="Assets\Textures\KorhalPlatform_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform1_norm">
+        <File value="Assets\Textures\KorhalPlatform_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform2">
+        <File value="Assets\Textures\KorhalPlatform_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform2_norm">
+        <File value="Assets\Textures\KorhalPlatform_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform3">
+        <File value="Assets\Textures\KorhalPlatform_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform3_norm">
+        <File value="Assets\Textures\KorhalPlatform_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform4">
+        <File value="Assets\Textures\KorhalPlatform_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform4_norm">
+        <File value="Assets\Textures\KorhalPlatform_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform5">
+        <File value="Assets\Textures\KorhalPlatform_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform5_norm">
+        <File value="Assets\Textures\KorhalPlatform_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform6">
+        <File value="Assets\Textures\KorhalPlatform_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform6_norm">
+        <File value="Assets\Textures\KorhalPlatform_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform7">
+        <File value="Assets\Textures\KorhalPlatform_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform7_norm">
+        <File value="Assets\Textures\KorhalPlatform_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform8">
+        <File value="Assets\Textures\KorhalPlatform_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalPlatform8_norm">
+        <File value="Assets\Textures\KorhalPlatform_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity1">
+        <File value="Assets\Textures\KorhalCity_1.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity1_norm">
+        <File value="Assets\Textures\KorhalCity_1Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity2">
+        <File value="Assets\Textures\KorhalCity_2.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity2_norm">
+        <File value="Assets\Textures\KorhalCity_2Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity3">
+        <File value="Assets\Textures\KorhalCity_3.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity3_norm">
+        <File value="Assets\Textures\KorhalCity_3Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity4">
+        <File value="Assets\Textures\KorhalCity_4.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity4_norm">
+        <File value="Assets\Textures\KorhalCity_4Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity5">
+        <File value="Assets\Textures\KorhalCity_5.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity5_norm">
+        <File value="Assets\Textures\KorhalCity_5Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity6">
+        <File value="Assets\Textures\KorhalCity_6.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity6_norm">
+        <File value="Assets\Textures\KorhalCity_6Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity7">
+        <File value="Assets\Textures\KorhalCity_7.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity7_norm">
+        <File value="Assets\Textures\KorhalCity_7Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+    <CTexture id="KorhalCity8">
+        <File value="Assets\Textures\KorhalCity_8.dds"/>
+        <Slot value="main.diffuse"/>
+    </CTexture>
+    <CTexture id="KorhalCity8_norm">
+        <File value="Assets\Textures\KorhalCity_8Normal.dds"/>
+        <Slot value="main.normal"/>
+    </CTexture>
+</Catalog>

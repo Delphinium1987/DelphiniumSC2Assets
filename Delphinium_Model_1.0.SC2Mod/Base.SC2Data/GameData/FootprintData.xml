@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Catalog>
+    <CFootprint id="nanazuyin1x1">
+        <Layers index="Check" Area="0,0,1,1">
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,0,1,1">
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="0.7072"/>
+            <Offsets value="-0.5,-0.5;0.5,-0.5;-0.5,0.5;0.5,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x1">
+        <Layers index="Check" Area="-1,0,1,1">
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,0,1,1">
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.1181"/>
+            <Offsets value="-1,-0.5;1,-0.5;-1,0.5;1,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x1">
+        <Layers index="Check" Area="-1,0,2,1">
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,0,2,1">
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.5812"/>
+            <Offsets value="-1.5,-0.5;1.5,-0.5;-1.5,0.5;1.5,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x1">
+        <Layers index="Check" Area="-2,0,2,1">
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,0,2,1">
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.0617"/>
+            <Offsets value="-2,-0.5;2,-0.5;-2,0.5;2,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x1">
+        <Layers index="Check" Area="-2,0,3,1">
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,0,3,1">
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.5495"/>
+            <Offsets value="-2.5,-0.5;2.5,-0.5;-2.5,0.5;2.5,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x1">
+        <Layers index="Check" Area="-3,0,3,1">
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,0,3,1">
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="3.0415"/>
+            <Offsets value="-3,-0.5;3,-0.5;-3,0.5;3,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x1">
+        <Layers index="Check" Area="-3,0,4,1">
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,0,4,1">
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.5356"/>
+            <Offsets value="-3.5,-0.5;3.5,-0.5;-3.5,0.5;3.5,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x1">
+        <Layers index="Check" Area="-4,0,4,1">
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,0,4,1">
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.0312"/>
+            <Offsets value="-4,-0.5;4,-0.5;-4,0.5;4,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x1">
+        <Layers index="Check" Area="-4,0,5,1">
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,0,5,1">
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.5278"/>
+            <Offsets value="-4.5,-0.5;4.5,-0.5;-4.5,0.5;4.5,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x1">
+        <Layers index="Check" Area="-5,0,5,1">
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,0,5,1">
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.0251"/>
+            <Offsets value="-5,-0.5;5,-0.5;-5,0.5;5,0.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x2">
+        <Layers index="Check" Area="0,-1,1,1">
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-1,1,1">
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.1181"/>
+            <Offsets value="-0.5,-1;0.5,-1;-0.5,1;0.5,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x2">
+        <Layers index="Check">
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place">
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.4143"/>
+            <Offsets value="-1,-1;1,-1;-1,1;1,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x2">
+        <Layers index="Check" Area="-1,-1,2,1">
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-1,2,1">
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.803"/>
+            <Offsets value="-1.5,-1;1.5,-1;-1.5,1;1.5,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x2">
+        <Layers index="Check" Area="-2,-1,2,1">
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-1,2,1">
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.236"/>
+            <Offsets value="-2,-1;2,-1;-2,1;2,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x2">
+        <Layers index="Check" Area="-2,-1,3,1">
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-1,3,1">
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.6926"/>
+            <Offsets value="-2.5,-1;2.5,-1;-2.5,1;2.5,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x2">
+        <Layers index="Check" Area="-3,-1,3,1">
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-1,3,1">
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="3.1623"/>
+            <Offsets value="-3,-1;3,-1;-3,1;3,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x2">
+        <Layers index="Check" Area="-3,-1,4,1">
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-1,4,1">
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.6401"/>
+            <Offsets value="-3.5,-1;3.5,-1;-3.5,1;3.5,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x2">
+        <Layers index="Check" Area="-4,-1,4,1">
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-1,4,1">
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.1232"/>
+            <Offsets value="-4,-1;4,-1;-4,1;4,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x2">
+        <Layers index="Check" Area="-4,-1,5,1">
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-1,5,1">
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.6098"/>
+            <Offsets value="-4.5,-1;4.5,-1;-4.5,1;4.5,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x2">
+        <Layers index="Check" Area="-5,-1,5,1">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-1,5,1">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.099"/>
+            <Offsets value="-5,-1;5,-1;-5,1;5,1"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x3">
+        <Layers index="Check" Area="0,-1,1,2">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-1,1,2">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.5812"/>
+            <Offsets value="-0.5,-1.5;0.5,-1.5;-0.5,1.5;0.5,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x3">
+        <Layers index="Check" Area="-1,-1,1,2">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-1,1,2">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="1.803"/>
+            <Offsets value="-1,-1.5;1,-1.5;-1,1.5;1,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x3">
+        <Layers index="Check" Area="-1,-1,2,2">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-1,2,2">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.1213"/>
+            <Offsets value="-1.5,-1.5;1.5,-1.5;-1.5,1.5;1.5,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x3">
+        <Layers index="Check" Area="-2,-1,2,2">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-1,2,2">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.5"/>
+            <Offsets value="-2,-1.5;2,-1.5;-2,1.5;2,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x3">
+        <Layers index="Check" Area="-2,-1,3,2">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-1,3,2">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.9155"/>
+            <Offsets value="-2.5,-1.5;2.5,-1.5;-2.5,1.5;2.5,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x3">
+        <Layers index="Check" Area="-3,-1,3,2">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-1,3,2">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="3.3542"/>
+            <Offsets value="-3,-1.5;3,-1.5;-3,1.5;3,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x3">
+        <Layers index="Check" Area="-3,-1,4,2">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-1,4,2">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.808"/>
+            <Offsets value="-3.5,-1.5;3.5,-1.5;-3.5,1.5;3.5,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x3">
+        <Layers index="Check" Area="-4,-1,4,2">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-1,4,2">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.2722"/>
+            <Offsets value="-4,-1.5;4,-1.5;-4,1.5;4,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x3">
+        <Layers index="Check" Area="-4,-1,5,2">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-1,5,2">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.7436"/>
+            <Offsets value="-4.5,-1.5;4.5,-1.5;-4.5,1.5;4.5,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x3">
+        <Layers index="Check" Area="-5,-1,5,2">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-1,5,2">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.2202"/>
+            <Offsets value="-5,-1.5;5,-1.5;-5,1.5;5,1.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x4">
+        <Layers index="Check" Area="0,-2,1,2">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-2,1,2">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.0617"/>
+            <Offsets value="-0.5,-2;0.5,-2;-0.5,2;0.5,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x4">
+        <Layers index="Check" Area="-1,-2,1,2">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-2,1,2">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.236"/>
+            <Offsets value="-1,-2;1,-2;-1,2;1,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x4">
+        <Layers index="Check" Area="-1,-2,2,2">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-2,2,2">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.5"/>
+            <Offsets value="-1.5,-2;1.5,-2;-1.5,2;1.5,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x4">
+        <Layers index="Check" Area="-2,-2,2,2">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-2,2,2">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.8286"/>
+            <Offsets value="-2,-2;2,-2;-2,2;2,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x4">
+        <Layers index="Check" Area="-2,-2,3,2">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-2,3,2">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.2016"/>
+            <Offsets value="-2.5,-2;2.5,-2;-2.5,2;2.5,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x4">
+        <Layers index="Check" Area="-3,-2,3,2">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-2,3,2">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="3.6057"/>
+            <Offsets value="-3,-2;3,-2;-3,2;3,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x4">
+        <Layers index="Check" Area="-3,-2,4,2">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-2,4,2">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.0312"/>
+            <Offsets value="-3.5,-2;3.5,-2;-3.5,2;3.5,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x4">
+        <Layers index="Check" Area="-4,-2,4,2">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-2,4,2">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.4721"/>
+            <Offsets value="-4,-2;4,-2;-4,2;4,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x4">
+        <Layers index="Check" Area="-4,-2,5,2">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-2,5,2">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.9245"/>
+            <Offsets value="-4.5,-2;4.5,-2;-4.5,2;4.5,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x4">
+        <Layers index="Check" Area="-5,-2,5,2">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-2,5,2">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.3852"/>
+            <Offsets value="-5,-2;5,-2;-5,2;5,2"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x5">
+        <Layers index="Check" Area="0,-2,1,3">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-2,1,3">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.5495"/>
+            <Offsets value="-0.5,-2.5;0.5,-2.5;-0.5,2.5;0.5,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x5">
+        <Layers index="Check" Area="-1,-2,1,3">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-2,1,3">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.6926"/>
+            <Offsets value="-1,-2.5;1,-2.5;-1,2.5;1,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x5">
+        <Layers index="Check" Area="-1,-2,2,3">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-2,2,3">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="2.9155"/>
+            <Offsets value="-1.5,-2.5;1.5,-2.5;-1.5,2.5;1.5,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x5">
+        <Layers index="Check" Area="-2,-2,2,3">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-2,2,3">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.2016"/>
+            <Offsets value="-2,-2.5;2,-2.5;-2,2.5;2,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x5">
+        <Layers index="Check" Area="-2,-2,3,3">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-2,3,3">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.5356"/>
+            <Offsets value="-2.5,-2.5;2.5,-2.5;-2.5,2.5;2.5,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x5">
+        <Layers index="Check" Area="-3,-2,3,3">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-2,3,3">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="3.9052"/>
+            <Offsets value="-3,-2.5;3,-2.5;-3,2.5;3,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x5">
+        <Layers index="Check" Area="-3,-2,4,3">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-2,4,3">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.3012"/>
+            <Offsets value="-3.5,-2.5;3.5,-2.5;-3.5,2.5;3.5,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x5">
+        <Layers index="Check" Area="-4,-2,4,3">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-2,4,3">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.717"/>
+            <Offsets value="-4,-2.5;4,-2.5;-4,2.5;4,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x5">
+        <Layers index="Check" Area="-4,-2,5,3">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-2,5,3">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.148"/>
+            <Offsets value="-4.5,-2.5;4.5,-2.5;-4.5,2.5;4.5,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x5">
+        <Layers index="Check" Area="-5,-2,5,3">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-2,5,3">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.5903"/>
+            <Offsets value="-5,-2.5;5,-2.5;-5,2.5;5,2.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x6">
+        <Layers index="Check" Area="0,-3,1,3">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-3,1,3">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.0415"/>
+            <Offsets value="-0.5,-3;0.5,-3;-0.5,3;0.5,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x6">
+        <Layers index="Check" Area="-1,-3,1,3">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-3,1,3">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.1623"/>
+            <Offsets value="-1,-3;1,-3;-1,3;1,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x6">
+        <Layers index="Check" Area="-1,-3,2,3">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-3,2,3">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.3542"/>
+            <Offsets value="-1.5,-3;1.5,-3;-1.5,3;1.5,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x6">
+        <Layers index="Check" Area="-2,-3,2,3">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-3,2,3">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.6057"/>
+            <Offsets value="-2,-3;2,-3;-2,3;2,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x6">
+        <Layers index="Check" Area="-2,-3,3,3">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-3,3,3">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.9052"/>
+            <Offsets value="-2.5,-3;2.5,-3;-2.5,3;2.5,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x6">
+        <Layers index="Check" Area="-3,-3,3,3">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-3,3,3">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.2426"/>
+            <Offsets value="-3,-3;3,-3;-3,3;3,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x6">
+        <Layers index="Check" Area="-3,-3,4,3">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-3,4,3">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.6098"/>
+            <Offsets value="-3.5,-3;3.5,-3;-3.5,3;3.5,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x6">
+        <Layers index="Check" Area="-4,-3,4,3">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-3,4,3">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="5"/>
+            <Offsets value="-4,-3;4,-3;-4,3;4,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x6">
+        <Layers index="Check" Area="-4,-3,5,3">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-3,5,3">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.4084"/>
+            <Offsets value="-4.5,-3;4.5,-3;-4.5,3;4.5,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x6">
+        <Layers index="Check" Area="-5,-3,5,3">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-3,5,3">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.831"/>
+            <Offsets value="-5,-3;5,-3;-5,3;5,3"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x7">
+        <Layers index="Check" Area="0,-3,1,4">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-3,1,4">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.5356"/>
+            <Offsets value="-0.5,-3.5;0.5,-3.5;-0.5,3.5;0.5,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x7">
+        <Layers index="Check" Area="-1,-3,1,4">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-3,1,4">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.6401"/>
+            <Offsets value="-1,-3.5;1,-3.5;-1,3.5;1,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x7">
+        <Layers index="Check" Area="-1,-3,2,4">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-3,2,4">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="3.808"/>
+            <Offsets value="-1.5,-3.5;1.5,-3.5;-1.5,3.5;1.5,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x7">
+        <Layers index="Check" Area="-2,-3,2,4">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-3,2,4">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.0312"/>
+            <Offsets value="-2,-3.5;2,-3.5;-2,3.5;2,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x7">
+        <Layers index="Check" Area="-2,-3,3,4">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-3,3,4">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.3012"/>
+            <Offsets value="-2.5,-3.5;2.5,-3.5;-2.5,3.5;2.5,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x7">
+        <Layers index="Check" Area="-3,-3,3,4">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-3,3,4">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="4.6098"/>
+            <Offsets value="-3,-3.5;3,-3.5;-3,3.5;3,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x7">
+        <Layers index="Check" Area="-3,-3,4,4">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-3,4,4">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.95"/>
+            <Offsets value="-3.5,-3.5;3.5,-3.5;-3.5,3.5;3.5,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x7">
+        <Layers index="Check" Area="-4,-3,4,4">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-3,4,4">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="5.3151"/>
+            <Offsets value="-4,-3.5;4,-3.5;-4,3.5;4,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x7">
+        <Layers index="Check" Area="-4,-3,5,4">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-3,5,4">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.701"/>
+            <Offsets value="-4.5,-3.5;4.5,-3.5;-4.5,3.5;4.5,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x7">
+        <Layers index="Check" Area="-5,-3,5,4">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-3,5,4">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.1035"/>
+            <Offsets value="-5,-3.5;5,-3.5;-5,3.5;5,3.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x8">
+        <Layers index="Check" Area="0,-4,1,4">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-4,1,4">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.0312"/>
+            <Offsets value="-0.5,-4;0.5,-4;-0.5,4;0.5,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x8">
+        <Layers index="Check" Area="-1,-4,1,4">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-4,1,4">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.1232"/>
+            <Offsets value="-1,-4;1,-4;-1,4;1,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x8">
+        <Layers index="Check" Area="-1,-4,2,4">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-4,2,4">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.2722"/>
+            <Offsets value="-1.5,-4;1.5,-4;-1.5,4;1.5,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x8">
+        <Layers index="Check" Area="-2,-4,2,4">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-4,2,4">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.4721"/>
+            <Offsets value="-2,-4;2,-4;-2,4;2,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x8">
+        <Layers index="Check" Area="-2,-4,3,4">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-4,3,4">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.717"/>
+            <Offsets value="-2.5,-4;2.5,-4;-2.5,4;2.5,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x8">
+        <Layers index="Check" Area="-3,-4,3,4">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-4,3,4">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="5"/>
+            <Offsets value="-3,-4;3,-4;-3,4;3,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x8">
+        <Layers index="Check" Area="-3,-4,4,4">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-4,4,4">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.3151"/>
+            <Offsets value="-3.5,-4;3.5,-4;-3.5,4;3.5,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x8">
+        <Layers index="Check" Area="-4,-4,4,4">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-4,4,4">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="5.657"/>
+            <Offsets value="-4,-4;4,-4;-4,4;4,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x8">
+        <Layers index="Check" Area="-4,-4,5,4">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-4,5,4">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.021"/>
+            <Offsets value="-4.5,-4;4.5,-4;-4.5,4;4.5,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x8">
+        <Layers index="Check" Area="-5,-4,5,4">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-4,5,4">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.4033"/>
+            <Offsets value="-5,-4;5,-4;-5,4;5,4"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x9">
+        <Layers index="Check" Area="0,-4,1,5">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-4,1,5">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.5278"/>
+            <Offsets value="-0.5,-4.5;0.5,-4.5;-0.5,4.5;0.5,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x9">
+        <Layers index="Check" Area="-1,-4,1,5">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-4,1,5">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.6098"/>
+            <Offsets value="-1,-4.5;1,-4.5;-1,4.5;1,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x9">
+        <Layers index="Check" Area="-1,-4,2,5">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-4,2,5">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.7436"/>
+            <Offsets value="-1.5,-4.5;1.5,-4.5;-1.5,4.5;1.5,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x9">
+        <Layers index="Check" Area="-2,-4,2,5">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-4,2,5">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="4.9245"/>
+            <Offsets value="-2,-4.5;2,-4.5;-2,4.5;2,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x9">
+        <Layers index="Check" Area="-2,-4,3,5">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-4,3,5">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.148"/>
+            <Offsets value="-2.5,-4.5;2.5,-4.5;-2.5,4.5;2.5,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x9">
+        <Layers index="Check" Area="-3,-4,3,5">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-4,3,5">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="5.4084"/>
+            <Offsets value="-3,-4.5;3,-4.5;-3,4.5;3,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x9">
+        <Layers index="Check" Area="-3,-4,4,5">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-4,4,5">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.701"/>
+            <Offsets value="-3.5,-4.5;3.5,-4.5;-3.5,4.5;3.5,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x9">
+        <Layers index="Check" Area="-4,-4,4,5">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-4,4,5">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="6.021"/>
+            <Offsets value="-4,-4.5;4,-4.5;-4,4.5;4,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x9">
+        <Layers index="Check" Area="-4,-4,5,5">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-4,5,5">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.364"/>
+            <Offsets value="-4.5,-4.5;4.5,-4.5;-4.5,4.5;4.5,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x9">
+        <Layers index="Check" Area="-5,-4,5,5">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-4,5,5">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.727"/>
+            <Offsets value="-5,-4.5;5,-4.5;-5,4.5;5,4.5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin1x10">
+        <Layers index="Check" Area="0,-5,1,5">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Layers index="Place" Area="0,-5,1,5">
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+            <Rows value="."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.0251"/>
+            <Offsets value="-0.5,-5;0.5,-5;-0.5,5;0.5,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin2x10">
+        <Layers index="Check" Area="-1,-5,1,5">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-5,1,5">
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+            <Rows value=".."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.099"/>
+            <Offsets value="-1,-5;1,-5;-1,5;1,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin3x10">
+        <Layers index="Check" Area="-1,-5,2,5">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Layers index="Place" Area="-1,-5,2,5">
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+            <Rows value="..."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.2202"/>
+            <Offsets value="-1.5,-5;1.5,-5;-1.5,5;1.5,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin4x10">
+        <Layers index="Check" Area="-2,-5,2,5">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-5,2,5">
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+            <Rows value="...."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.3852"/>
+            <Offsets value="-2,-5;2,-5;-2,5;2,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin5x10">
+        <Layers index="Check" Area="-2,-5,3,5">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Layers index="Place" Area="-2,-5,3,5">
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+            <Rows value="....."/>
+        </Layers>
+        <Shape>
+            <Radius value="5.5903"/>
+            <Offsets value="-2.5,-5;2.5,-5;-2.5,5;2.5,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin6x10">
+        <Layers index="Check" Area="-3,-5,3,5">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Layers index="Place" Area="-3,-5,3,5">
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+            <Rows value="......"/>
+        </Layers>
+        <Shape>
+            <Radius value="5.831"/>
+            <Offsets value="-3,-5;3,-5;-3,5;3,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin7x10">
+        <Layers index="Check" Area="-3,-5,4,5">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Layers index="Place" Area="-3,-5,4,5">
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+            <Rows value="......."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.1035"/>
+            <Offsets value="-3.5,-5;3.5,-5;-3.5,5;3.5,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin8x10">
+        <Layers index="Check" Area="-4,-5,4,5">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Layers index="Place" Area="-4,-5,4,5">
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+            <Rows value="........"/>
+        </Layers>
+        <Shape>
+            <Radius value="6.4033"/>
+            <Offsets value="-4,-5;4,-5;-4,5;4,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin9x10">
+        <Layers index="Check" Area="-4,-5,5,5">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Layers index="Place" Area="-4,-5,5,5">
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+            <Rows value="........."/>
+        </Layers>
+        <Shape>
+            <Radius value="6.727"/>
+            <Offsets value="-4.5,-5;4.5,-5;-4.5,5;4.5,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+    <CFootprint id="nanazuyin10x10">
+        <Layers index="Check" Area="-5,-5,5,5">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Layers index="Place" Area="-5,-5,5,5">
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+            <Rows value=".........."/>
+        </Layers>
+        <Shape>
+            <Radius value="7.0712"/>
+            <Offsets value="-5,-5;5,-5;-5,5;5,5"/>
+            <Borders value="0,2,3;1,0,3;2,3,3;3,1,3"/>
+        </Shape>
+    </CFootprint>
+</Catalog>
