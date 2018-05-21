@@ -9,7 +9,7 @@ The entire asset library is too huge to make a photograph index, but you can see
 
 We are welcome that all SC2 modders around the world can use our works to bring new and cool arcade games. You can use the entire mods as well as export and repack the assets by yourself. But please note that these assets are licensed for non-commercial use only. We made these assets to help community and modders, but we don't want someone to take up our works for their own commercial interests.
 
-(As an exceptional case) To help and support Blizzard current Premium Arcade Project, if your arcade game has join this project, we'd like to abandon all our potential commercial interests to dispel your scruples during your negotiation between you and Blizzard. Don't worry, we only wish your success.
+(As an exceptional case) To help and support Blizzard current Premium Arcade Project, if your arcade game has join this project, we'd like to abandon all our potential commercial interests to dispel your scruples during your negotiation between you and Blizzard. We only want to help and wish your success.
 
 Special thanks to Renee, PrintIn, Taylormouse, SC2mapster and Goblin Academy.
 
