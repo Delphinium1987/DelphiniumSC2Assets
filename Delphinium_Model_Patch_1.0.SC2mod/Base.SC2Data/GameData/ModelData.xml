@@ -184,6 +184,51 @@
     <CModel id="NanaKey_TO_BlackOPsSCV">
         <Model value="Character\BlackOPsSCV\NanaKey_TO_BlackOPsSCV.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_CanSuit">
+        <Model value="Monsters\NanaKey_TO_CanSuit.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CanSuit_Death">
+        <Model value="Monsters\NanaKey_TO_CanSuit_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CanSuit_Fly_Death">
+        <Model value="Monsters\NanaKey_TO_CanSuit_Fly_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_Orange">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_Orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_birman">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_birman.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_bombay">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_bombay.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_boots">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_boots.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_cornishrex">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_cornishrex.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_cringer">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_cringer.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_mainecoon">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_mainecoon.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_max">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_max.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_orangetabby">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_orangetabby.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_salome">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_salome.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_silvertabby">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_silvertabby.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_CatPet_white">
+        <Model value="Misc\Pets\Cat\NanaKey_TO_CatPet_white.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_FrogPet_black">
         <Model value="Misc\Pets\Frog\NanaKey_TO_FrogPet_black.m3"/>
     </CModel>
@@ -274,8 +319,14 @@
     <CModel id="NanaKey_TO_GreenHat">
         <Model value="NanaKeyEffects\NanaKey_TO_GreenHat.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_Hydra">
+        <Model value="Monsters\NanaKey_TO_Hydra.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_ItalianCannon">
         <Model value="Weapon\NanaKey_TO_ItalianCannon.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_LePing_Death">
+        <Model value="Misc\NanaKey_TO_LePing_Death.m3"/>
     </CModel>
     <CModel id="NanaKey_TO_Lifebuoy">
         <Model value="NanaKeyEffects\NanaKey_TO_Lifebuoy.m3"/>
@@ -314,6 +365,10 @@
     <CModel id="NanaKey_TO_Seahorse_Purple">
         <Model value="Misc\NanaKey_TO_Seahorse_Purple.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_Seaserpent">
+        <Model value="Monsters\NanaKey_TO_Seaserpent.m3"/>
+        <VariationCount value="4"/>
+    </CModel>
     <CModel id="NanaKey_TO_Spikesroadblock">
         <Model value="Misc\NanaKey_TO_Spikesroadblock.m3"/>
     </CModel>
@@ -332,6 +387,9 @@
     <CModel id="NanaKey_TO_SwordTrap">
         <Model value="Misc\NanaKey_TO_SwordTrap.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_TeslaShield">
+        <Model value="NanaKeyEffects\NanaKey_TO_TeslaShield.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_Teslacoil">
         <Model value="RussianArmy\NanaKey_TO_Teslacoil.m3"/>
     </CModel>
@@ -341,6 +399,15 @@
     <CModel id="NanaKey_TO_Teslalift">
         <Model value="CutScene\Buildings\NanaKey_TO_Teslalift.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_ToadLoa_Blue">
+        <Model value="Misc\NanaKey_TO_ToadLoa_Blue.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_ToadLoa_Green">
+        <Model value="Misc\NanaKey_TO_ToadLoa_Green.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_ToadLoa_Yellow">
+        <Model value="Misc\NanaKey_TO_ToadLoa_Yellow.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_VoidSeeker_ShieldFixed">
         <Model value="Spaceships\NanaKey_TO_VoidSeeker_ShieldFixed.m3"/>
     </CModel>
@@ -349,6 +416,15 @@
     </CModel>
     <CModel id="NanaKey_TO_VoidSeeker_Warp_Out">
         <Model value="Spaceships\NanaKey_TO_VoidSeeker_Warp_Out.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_YangjiaoshouShockPlatform">
+        <Model value="Monsters\NanaKey_TO_YangjiaoshouShockPlatform.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_YangjiaoshouShockPlatform_Death">
+        <Model value="Monsters\NanaKey_TO_YangjiaoshouShockPlatform_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_YangjiaoshouShockPlatform_SmallDrone">
+        <Model value="Monsters\NanaKey_TO_YangjiaoshouShockPlatform_SmallDrone.m3"/>
     </CModel>
     <CModel id="NanaKey_TO_kryptonite">
         <Model value="NanaKeyEffects\NanaKey_TO_kryptonite.m3"/>
@@ -368,6 +444,45 @@
     <CModel id="NanaKey_TO_landingship_Warp_Out">
         <Model value="Spaceships\NanaKey_TO_landingship_Warp_Out.m3"/>
     </CModel>
+    <CModel id="NanaKey_UI_Cursor_Adept">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_Adept.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_BrettWood">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_BrettWood.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_BrettWoodMAC">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_BrettWoodMAC.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_CaptainBlizzard">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_CaptainBlizzard.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_Gamon">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_Gamon.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_GamonWarrior">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_GamonWarrior.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_Graham">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_Graham.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_ImbaMan">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_ImbaMan.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_ImbaManShoulderCannon">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_ImbaManShoulderCannon.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_MercCommander">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_MercCommander.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_SCV">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_SCV.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_Scorch">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_Scorch.m3"/>
+    </CModel>
+    <CModel id="NanaKey_UI_Cursor_ZeratulDarkKnight">
+        <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_ZeratulDarkKnight.m3"/>
+    </CModel>
     <CModel id="NanaKey_UI_Ping_Voidseeker">
         <Model value="NanaKeyUI\Ping\NanaKey_UI_Ping_Voidseeker.m3"/>
     </CModel>
@@ -377,11 +492,17 @@
     <CModel id="NanaKey_BG_TankmodeWalls">
         <Model value="NanaKey_Terrain\NanaKey_BG_TankmodeWalls.m3"/>
     </CModel>
+    <CModel id="NanaKey_WP_25Player">
+        <Model value="Weapon\NanaKey_WP_25Player.m3"/>
+    </CModel>
     <CModel id="NanaKey_WP_AH42_Missile">
         <Model value="NanaKeyEffects\Missiles\NanaKey_WP_AH42_Missile.m3"/>
     </CModel>
     <CModel id="NanaKey_WP_HaloSuit">
         <Model value="Weapon\NanaKey_WP_HaloSuit.m3"/>
+    </CModel>
+    <CModel id="NanaKey_WP_InnovationProtectClub">
+        <Model value="Weapon\NanaKey_WP_InnovationProtectClub.m3"/>
     </CModel>
     <CModel id="NanaKey_WP_clusterbomb">
         <Model value="NanaKeyEffects\Missiles\NanaKey_WP_clusterbomb.m3"/>
@@ -394,5 +515,8 @@
     </CModel>
     <CModel id="NanaKey_cs_Battlestation_MechBridge">
         <Model value="Assets\Doodads\BattleStation_MechBridgeDestroyed\BattleStation_MechBridgeDestroyed.m3"/>
+    </CModel>
+    <CModel id="SC2_Hero_Monument">
+        <Model value="Character\Totalbiscuit\SC2_Hero_Monument.m3"/>
     </CModel>
 </Catalog>
