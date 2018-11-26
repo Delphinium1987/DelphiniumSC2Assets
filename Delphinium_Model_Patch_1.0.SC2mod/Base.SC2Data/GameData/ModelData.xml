@@ -118,6 +118,9 @@
     <CModel id="Frog_EF_SkyShield_Impact">
         <Model value="Shield\Frog_EF_SkyShield_Impact.m3"/>
     </CModel>
+    <CModel id="NanaKey_BG_05Site">
+        <Model value="CutScene\Buildings\NanaKey_BG_05Site.m3"/>
+    </CModel>
     <CModel id="NanaKey_BG_TankmodeSteals">
         <Model value="NanaKey_Terrain\NanaKey_BG_TankmodeSteals.m3"/>
     </CModel>
@@ -127,8 +130,17 @@
     <CModel id="NanaKey_Background_CloudScene_Horizontal">
         <Model value="CutScene\Background\NanaKey_Background_CloudScene_Horizontal.m3"/>
     </CModel>
+    <CModel id="NanaKey_Cutscene_BreakableWall">
+        <Model value="NanaKey_Terrain\NanaKey_Cutscene_BreakableWall.m3"/>
+    </CModel>
+    <CModel id="NanaKey_Cutscene_MarineBreakin">
+        <Model value="NanaKey_Terrain\NanaKey_Cutscene_MarineBreakin.m3"/>
+    </CModel>
     <CModel id="NanaKey_EF_AH42_Missile_Launch">
         <Model value="NanaKeyEffects\Particles\NanaKey_EF_AH42_Missile_Launch.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Beam_LaserScanline">
+        <Model value="NanaKeyEffects\NanaKey_EF_Beam_LaserScanline.m3"/>
     </CModel>
     <CModel id="NanaKey_EF_BuffBurst_Blue">
         <Model value="NanaKeyEffects\Buff\NanaKey_EF_BuffBurst_Blue.m3"/>
@@ -142,11 +154,53 @@
     <CModel id="NanaKey_EF_KAMEHAMEHA_missile">
         <Model value="NanaKeyEffects\Missiles\NanaKey_EF_KAMEHAMEHA_missile.m3"/>
     </CModel>
+    <CModel id="NanaKey_EF_LightDarkBeam">
+        <Model value="NanaKeyEffects\NanaKey_EF_LightDarkBeam.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_LightDarkBeamLaunch">
+        <Model value="NanaKeyEffects\NanaKey_EF_LightDarkBeamLaunch.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_LightDarkBeam_Impact">
+        <Model value="NanaKeyEffects\NanaKey_EF_LightDarkBeam_Impact.m3"/>
+    </CModel>
     <CModel id="NanaKey_EF_Missile_MuleliskMissile">
         <Model value="NanaKeyEffects\Missiles\NanaKey_EF_Missile_MuleliskMissile.m3"/>
     </CModel>
+    <CModel id="NanaKey_EF_Missile_PoisonslimeAgamont">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_Missile_PoisonslimeAgamont.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Missile_PoisonslimeAgamont_Orange">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_Missile_PoisonslimeAgamont_Orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Missile_PoisonslimeAgamont_Purple">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_Missile_PoisonslimeAgamont_Purple.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_PoisonslimeAgamontExplosion">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_PoisonslimeAgamontExplosion.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_PoisonslimeAgamontExplosion_Orange">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_PoisonslimeAgamontExplosion_Orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_PoisonslimeAgamontExplosion_Purple">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_PoisonslimeAgamontExplosion_Purple.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Poisonslime_Mucus">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_Poisonslime_Mucus.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Poisonslime_Mucus_Orange">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_Poisonslime_Mucus_Orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_Poisonslime_Mucus_Purple">
+        <Model value="NanaKeyEffects\Particles\NanaKey_EF_Poisonslime_Mucus_Purple.m3"/>
+    </CModel>
     <CModel id="NanaKey_EF_QuantumBlink">
         <Model value="NanaKeyEffects\Particles\NanaKey_EF_QuantumBlink.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_ReleaseEnergy">
+        <Model value="NanaKeyEffects\NanaKey_EF_ReleaseEnergy.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_SpiritBall">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_SpiritBall.m3"/>
     </CModel>
     <CModel id="NanaKey_EF_Word_Pah">
         <Model value="NanaKeyEffects\NanaKey_EF_Word_Pah.m3"/>
@@ -166,11 +220,22 @@
     <CModel id="NanaKey_EF_lightningStrikeSingleV2">
         <Model value="NanaKeyEffects\Particles\NanaKey_EF_lightningStrikeSingleV2.m3"/>
     </CModel>
+    <CModel id="NanaKey_EF_missile_saltcontainer">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_missile_saltcontainer.m3"/>
+    </CModel>
+    <CModel id="NanaKey_EF_taserbullet_Impact">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_EF_taserbullet_Impact.m3"/>
+        <ScaleMax value="1.100000,1.100000,1.100000"/>
+        <ScaleMin value="0.800000,0.800000,0.800000"/>
+    </CModel>
     <CModel id="NanaKey_Item_DropItemMarker_Ship">
         <Model value="NanaKeyUI\NanaKey_Item_DropItemMarker_Ship.m3"/>
     </CModel>
     <CModel id="NanaKey_Item_DropItemMarker_Star">
         <Model value="NanaKeyUI\NanaKey_Item_DropItemMarker_Star.m3"/>
+    </CModel>
+    <CModel id="NanaKey_Missile_taserbullet">
+        <Model value="NanaKeyEffects\Missiles\NanaKey_Missile_taserbullet.m3"/>
     </CModel>
     <CModel id="NanaKey_TO_AH42">
         <Model value="RussianArmy\NanaKey_TO_AH42.m3"/>
@@ -340,15 +405,75 @@
     <CModel id="NanaKey_TO_Marine_Junker_RPG_Right">
         <Model value="Monsters\NanaKey_TO_Marine_Junker_RPG_Right.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_Monocycle">
+        <Model value="Vehicle\NanaKey_TO_Monocycle.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Monocycle_Death">
+        <Model value="Vehicle\NanaKey_TO_Monocycle_Death.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_Mulelisk">
         <Model value="Monsters\NanaKey_TO_Mulelisk.m3"/>
     </CModel>
     <CModel id="NanaKey_TO_Mulelisk_Death">
         <Model value="Monsters\NanaKey_TO_Mulelisk_Death.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_Poisonslime">
+        <Model value="Monsters\NanaKey_TO_Poisonslime.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Poisonslime_Death">
+        <Model value="Monsters\NanaKey_TO_Poisonslime_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Poisonslime_Orange">
+        <Model value="Monsters\NanaKey_TO_Poisonslime_Orange.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Poisonslime_Orange_Death">
+        <Model value="Monsters\NanaKey_TO_Poisonslime_Orange_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Poisonslime_Purple">
+        <Model value="Monsters\NanaKey_TO_Poisonslime_Purple.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_Poisonslime_Purple_Death">
+        <Model value="Monsters\NanaKey_TO_Poisonslime_Purple_Death.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_RageComicMask">
         <Model value="Misc\NanaKey_TO_RageComicMask.m3"/>
         <VariationCount value="5"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Base">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Base.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Base_Death">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Base_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Desolator">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Desolator.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Desolator_Death">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Desolator_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Melee">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Melee.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Melee_Death">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Melee_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Sniper">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Sniper.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Sniper_Death">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Sniper_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Tesla">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Tesla.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Tesla_Death">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Tesla_Death.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Viper">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Viper.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_RoboMarine_Viper_Death">
+        <Model value="Monsters\NanaKey_TO_RoboMarine_Viper_Death.m3"/>
     </CModel>
     <CModel id="NanaKey_TO_RubberDuck">
         <Model value="Misc\NanaKey_TO_RubberDuck.m3"/>
@@ -426,6 +551,12 @@
     <CModel id="NanaKey_TO_YangjiaoshouShockPlatform_SmallDrone">
         <Model value="Monsters\NanaKey_TO_YangjiaoshouShockPlatform_SmallDrone.m3"/>
     </CModel>
+    <CModel id="NanaKey_TO_inductor">
+        <Model value="Misc\NanaKey_TO_inductor.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_inductor_Death">
+        <Model value="Misc\NanaKey_TO_inductor_Death.m3"/>
+    </CModel>
     <CModel id="NanaKey_TO_kryptonite">
         <Model value="NanaKeyEffects\NanaKey_TO_kryptonite.m3"/>
     </CModel>
@@ -443,6 +574,9 @@
     </CModel>
     <CModel id="NanaKey_TO_landingship_Warp_Out">
         <Model value="Spaceships\NanaKey_TO_landingship_Warp_Out.m3"/>
+    </CModel>
+    <CModel id="NanaKey_TO_saltfish">
+        <Model value="NanaKeyEffects\NanaKey_TO_saltfish.m3"/>
     </CModel>
     <CModel id="NanaKey_UI_Cursor_Adept">
         <Model value="NanaKeyUI\HeroCursor\NanaKey_UI_Cursor_Adept.m3"/>
